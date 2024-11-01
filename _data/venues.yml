@@ -1,9 +1,26 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IEEE TVCG":
+  color: "#C32B72"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Opt. Exp.":
+  color: "#C32B72"
 
-"Vision":
-  color: "#009f36"
+"IEEE VR Poster":
+  color: "#666666"
+
+"IEEE VR Workshop":
+  color: "#666666"
+
+"ISMAR Poster":
+  color: "#666666"
+
+"AHs Poster":
+  color: "#666666"
+
+"SIGGRAPH Poster":
+  color: "#666666"
+
+"SIGGRAPH E-tech":
+  color: "#666666"
+
+"arXiv":
+  color: "#666666"

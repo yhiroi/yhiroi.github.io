@@ -1,34 +1,84 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"sugimoto":
+  - firstname: ["Maki"]
+    url: https://im-lab.net/maki-sugimoto/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"iwai":
+  - firstname: ["Daisuke"]
+    url: https://daisukeiwai.org/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"itoh":
+  - firstname: ["Yuta"]
+    url: https://augvislab.github.io/people/yuta-itoh
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"yamada":
+  - firstname: ["Makoto"]
+    url: https://riken-yamada.github.io/profile.html
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"kaminokado":
+  - firstname: ["Takumi"]
+    url: https://kamino410.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"ono":
+  - firstname: ["Shunsuke"]
+    url: https://sites.google.com/site/thunsukeono/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"rekimoto":
+  - firstname: ["Jun"]
+    url: https://lab.rekimoto.org/members/rekimoto/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"ooi":
+  - firstname: ["Chun Wei", "Chun-Wei"]
+    url: https://imjyun.com/
+
+"kitagishi":
+  - firstname: ["Takekazu"]
+    url: https://takekazukitagishi.studio.site/
+
+"mikawa":
+  - firstname: ["Yuri"]
+    url: http://yurimikawa.com/index.php
+
+"hiraki":
+  - firstname: ["Takefumi"]
+    url: https://mvmlab.jp/jp/
+
+"hirao":
+  - firstname: ["Yutaro"]
+    url: https://yutarohirao.notion.site/Yutaro-Hirao-s-CV-08a37b7f88f44d66baa0cb71d6838478
+
+"kiyokawa":
+  - firstname: ["Kiyoshi"]
+    url: https://carelab.info/ja/kiyoshi-kiyokawa/
+
+"perusquia-hernandez":
+  - firstname: ["Monica"]
+    url: https://www.monicaperusquia.com/index.html
+
+"hattori":
+  - firstname: ["Shingo"]
+    url: https://llhi.org/
+
+"hayase":
+  - firstname: ["Tomohiro"]
+    url: https://thayafluss.net/a5e3683ec8fb4109b3966afb02d6a4c2
+
+"watanabe":
+  - firstname: ["Yuna"]
+    url: https://ynwtnb.github.io/portfolio/
+
+"thomas":
+  - firstname: ["Bruce H."]
+    url: https://people.unisa.edu.au/Bruce.Thomas
+
+"orlosky":
+  - firstname: ["Jason"]
+    url: https://www.jeoresearch.com/research
+
+"saito":
+  - firstname: ["Hideo"]
+    url: http://www.hvrl.ics.keio.ac.jp/professor-saito/
+
+"klinker":
+  - firstname: ["Gudrun"]
+    url: https://www.cit.tum.de/cit/startseite/

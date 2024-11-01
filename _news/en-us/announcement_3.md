@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-03-21 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+The co-author paper won **Best Paper Honorable Mention** in [IEEE VR 2024](https://ieeevr.org/2024/awards/conference-awards/) :sparkles: :trophy:

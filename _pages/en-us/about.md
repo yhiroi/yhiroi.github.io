@@ -3,25 +3,25 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <i>Senior Research Scientist, <a href='https://lab.cluster.mu/en/'>Cluster Metaverse Lab</a>, Japan.</i>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: prof_hiroi_sq.jpg
+  image_circular: true # crops the image to make it circular
+  more_info: 
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Yuichi HIROI** is a Senior Research Scientist in [Cluster Metaverse Lab](https://lab.cluster.mu/en/) in [Cluster Inc.](https://corp.cluster.mu/en), Japan. 
+Yuichi received his Ph.D. in engineering at the School of Computing, [Tokyo Institute of Technology](https://educ.titech.ac.jp/cs/eng/) (currently Institute of Science Tokyo), Japan in 2022. His B.Eng. and M.Eng degree is in engineering from [Keio University](https://www.ics.keio.ac.jp/), Japan in 2015 and 2017, respectively. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
+Yuichi worked as a researcher in [NTT Service Evolution Laboratory](https://www.rd.ntt/e/svlab/), Japan (2017-2018), and as a post-doc research fellow for the Japan Society for the Promotion of Science (JSPS PD) at the Interfaculty Initiative in Information Studies, [the University of Tokyo](https://www.iii.u-tokyo.ac.jp/), Japan (2022-2023). Currently, he is also a visiting researcher at [Jun Rekimoto Lab](https://lab.rekimoto.org/), the University of Tokyo from 2023. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Yuichi's research interests include mixed reality, optics for head-mounted displays, vision measurement, and vision augmentation. Over the years, Yuichi’s research works has been recognized with awards from IEEE VR, Augmented Human Conference and ACM SIGGRAPH.
+
+Please see more in the detailed CV [here](assets/pdf/en-us/CV_Hiroi_new_1.pdf).

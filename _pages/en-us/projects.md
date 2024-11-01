@@ -1,3 +1,5 @@
+<style>
+/*
 ---
 page_id: projects
 layout: page
@@ -58,3 +60,5 @@ horizontal: false
     {% endif %}
   {% endif %}
 </div>
+*/
+</style>

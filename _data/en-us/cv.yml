@@ -1,101 +1,218 @@
-- title: General Information
+- title: Summary
+  type: text
+  contents: |
+    <b>Yuichi HIROI</b> is a researcher focusing on Augmented Reality (AR), near-eye display technologies, vision augmentation, and personalized visual experiences. His background as <a href='https://lamer-e.tv/'> a freelance motion graphics designer </a> has driven his passion for creating unprecedented visual experiences that transcend conventional display boundaries. <br><br>
+
+    His research began with bridging the gap between intended and perceived visual expression, leading to occlusion-capable Optical See-Through Head-Mounted Displays (OST-HMDs) that enable precise modulation of real-world light for more natural AR experiences. <br><br>
+
+    Understanding that individual differences in visual perception affect user experience, he developed an interest in personalized vision augmentation, integrating direct eye measurements with HMDs and adaptive systems that cater to individual visual preferences. <br><br>
+
+    Currently, Yuichi is a Senior Research Scientist at <a href='https://lab.cluster.mu/en/'>Cluster Metaverse Lab</a> and a visiting researcher at <a href='https://lab.rekimoto.org/'>Jun Rekimoto Lab</a>, the University of Tokyo. His mission is to bridge the ideal and real worlds through VR/AR technologies, enhancing cognitive experiences by integrating cyber and physical spaces, with a focus on visual perception.
+
+- title: Profile
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Yuichi HIROI (廣井 裕一)
+    - name: Title
+      value: Senior Research Scientist at <a href="https://lab.cluster.mu/en/">Cluster Metaverse Lab</a>
+    - name: Email
+      value: "y.hiroi {at} cluster.mu"
+    - name: Website
+      value: "<a href='https://yhiroi.github.io/'>https://yhiroi.github.io/</a>"
+    - name: Scholor
+      value: "<a href='https://scholar.google.com/citations?user=_ICkxzkAAAAJ'>_ICkxzkAAAAJ</a>"
+    - name: Research Interests
+      value: "Augmented Reality (AR), Optical See-Through Head-Mounted Displays (OST-HMDs), Realistic Visual Appearance Reproduction, Vision Measurement, Vision Augmentation"
+    - name: Location
+      value: "FORECAST Gotanda WEST 10F, 8-9-5, Nishigotanda, Shinagawa, Tokyo 141-0031, Japan"
 
-- title: Education
+- title: Work Experience
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Senior Research Scientist
+      institution: <a href="https://lab.cluster.mu/en/">Cluster Metaverse Lab</a>, <a href="https://corp.cluster.mu/en">Cluster Inc.</a>
+      location: Tokyo, Japan
+      year: 2023.07 -
+      description: "In addition to ongoing AR display research, I am engaged in research on accelerating spatial design and experiential creativity within metaverse platforms, personalized metaverse experiences, and translating behavioral analysis of metaverse spaces into real-world applications."
+    - title: Visiting Researcher
+      institution: "The University of Tokyo / Advisor: <a href='https://lab.rekimoto.org/members/rekimoto/'>Jun Rekimoto</a>"
+      location: Tokyo, Japan
+      year: 2023.07 -
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Collaborate on research related to AR displays and vision augmentation."
+    - title: JSPS Research Fellow (PD)
+      institution: "The University of Tokyo / Advisor: <a href='https://lab.rekimoto.org/members/rekimoto/'>Jun Rekimoto</a>"
+      location: Tokyo, Japan
+      year: 2022.04 - 2023.06
+      description: 
+        - "Research on AR displays and vision augmentation systems."
+    - title: Non-full-time Researcher
+      institution: "<a href='https://www.sonycsl.co.jp/kyoto/en/'>Sony Computer Science Laboratories Kyoto</a> / Advisor: <a href='https://lab.rekimoto.org/members/rekimoto/'>Jun Rekimoto</a>"
+      location: Kyoto, Japan
+      year: 2021.06 - 2023.06
       description:
-        - Description 1.
-        - Description 2.
+        - "Research on rendering 3D objects with high visual fidelity in AR displays using neural rendering."
+    - title: Visiting Researcher
+      institution: "University of Otago / Advisor: <a href='https://www.otago.ac.nz/school-of-computing/our-people/tobias-langlotz'>Tobias Langlotz</a>"
+      location: "Otago, New Zealand" 
+      year: 2022.12 - 2023.01 <br> 2019.11 - 2020.01
+      description: 
+        - "Engage in international collaborative research exchanges on vision augmentation systems based on personal visual measurements."
+    - title: JSPS Research Fellow (DC2)
+      institution: "Tokyo Institute of Technology / Advisor: <a href='https://augvislab.github.io/people/yuta-itoh'>Yuta Itoh</a>"
+      location: Tokyo, Japan
+      year: 2019.04 - 2022.03
+      description: "Conducting doctoral research on AR displays, developing vision augmentation systems, researching optical see-through displays integrating light measurement and modulation"
+    - title: Project Researcher
+      institution: "Keio University / Advisor: <a href='https://im-lab.net/maki-sugimoto/'>Maki Sugimoto</a>"
+      location: Yokohama, Japan
+      year: 2019.01 - 2020.03
+      description: "As a project researcher for <a href='https://www.jst.go.jp/kisoken/crest/en/project/1111083/14531610.html'>JST CREST Collective Visual Sensing</a>, I researched collective visual sensing and developed collaborative AR systems for medical applications."
+    - title: Full-time Researcher
+      institution: NTT Service Evolution Laboratory
+      location: Yokosuka, Japan
+      year: 2017.04 - 2018.12
+      description: "As part of the ultra-immersive communication technology <a href='https://group.ntt/en/magazine/blog/kirari/'>'Kirari!'</a>, I conducted research on person and object tracking systems in sports movements and on video generation technologies from arbitrary viewpoints."
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-now
-      description: A fork of al-folio theme with support for multiple languages.
-
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Academic Service
+  type: nested_list
+  contents:  
+    - title: Workshop Organizer
+      items:
+        - "<a href='https://sites.google.com/cluster.mu/1st-ws-seamless-reality/'>1st Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2024, 2024, Seattle, USA"
+    - title: Program Committies
+      items:
+        - "IEEE VR (2025)"
+        - "IEEE ISMAR (2024)"
+        - "ICAT-EGVE (2024)"
+        - "APMAR (2024)"
+    - title: Academic Society Committee
+      items:
+        - "Virtual Reality Society Japan (VRSJ), SIG-MR Committee (2023-)"
+    - title: Journal Reviewer
+      items:
+        - IEEE Transactions on Visualization and Computer Graphics (2024)
+        - OPTICA Applied Optics (2023)
+        - OPTICA Optics Express (2021)
+        - Journal of the Virtual Reality Society of Japan (2023)
+    - title: Conference Reviewer
+      items:
+        - IEEE VR (2023 - 2024)
+        - IEEE ISMAR (2023 - 2024)
+        - ACM VRST (2024)
+        - ACM SUI (2023 - 2024)
+        - ACM CHI (2023)
+        - ICAT-EGVE (2024)
+        - APMAR (2024)
+        - SIGGRAPH Asia E-Tech (2024)
+      
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Best Paper Honorable Mention, IEEE VR 2024
+      year: 2024.08
+      description:
+        - 'H. Aoki, T. Tochimoto, <u>Y. Hiroi</u>, Y. Itoh, “Towards Co-operative Beaming Displays: Dual Steering Projectors for Extended Projection Volume and Head Orientation Range”'
+    - title: 1st Place in SIGGRAPH 2024 Student Research Competition for Undergraduate Work
+      year: 2024.03
+      description:
+        - 'S. Hattori, <u>Y. Hiroi</u>, T. Hiraki, “Measurement of the Imperceptible Threshold for Color Vibration Pairs Selected by using MacAdam Ellipse”'
+    - title: Japan's Leading Optics Research in 2022 (Top 30), Optical Society of Japan
+      year: 2023.07
+      description:
+        - '<u>Y. Hiroi</u>, K. Someya, Y. Itoh, “Neural Distortion Fields for Spatial Calibration of Wide Field-of-View Near-Eye Displays”'
+    - title: Best Poster Honorable Mention, Augmented Humans 2023
+      year: 2023.03
+      description:
+        - 'Y. Koike, <u>Y. Hiroi</u>, Y. Itoh, J. Rekimoto. 2023. “Brain-Computer Interface using Directional Auditory Perception”'
+    - title: SIG-MR Award, Virtual Reality Society Japan (VRSJ)
+      year: 2019.3
+      description:
+        - 'T. Hamasaki, Y. Itoh, <u>Y. Hiroi</u>, D. Iwai, M. Sugimoto, "HySAR: Hybrid Material Rendering by an Optical See-Through Head-Mounted Display with Spatial Augmented Reality Projection”'
+    - title: Best Paper 3rd Place, Augmented Human 2017
+      year: 2017
+      description:
+        - '<u>Y. Hiroi</u>, Y. Itoh, T. Hamasaki, M. Sugimoto, “AdaptiVisor: Assisting Eye Adaptation via Occlusive Optical See-Through Head-Mounted Displays”'
+    - title: CG-ARTS Award, Japan Computer Graphics Arts Society
+      year: 2014
+      description:
+        - For excellent grades in the Expert Certification Test (CG Engineer Experts and Image Processing Engineer Experts)
 
-- title: Academic Interests
-  type: nested_list
+- title: Grants
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: (Co-PI) JST ASPIRE for Rising Scientists
+      year: 2024.02 - 2027.03 <br> (active)
+      description:
+        - 'Project: <i>"Seamless Reality: A Technological Foundation for Merging Cyber-Physical Spaces through Real-World-Oriented Avatars"</i>'
+        - "PI: <a href='https://augvislab.github.io/people/yuta-itoh'>Yuta Itoh</a>, The University of Tokyo"
+        - title: "Co-PI" 
+          contents:
+          - <a href='https://mvmlab.jp/'>Takefumi Hiraki</a>, University of Tsukuba
+          - <u>Yuichi Hiroi</u>, Cluster Metaverse Lab
+        - title: "International Collaborators"
+          contents:
+          - <a href='https://kaanaksit.com/'>Kaan Akşit</a>, University College London, UK
+          - <a href='https://jeanmarienormand.fr/'>Jean-Marie Normand</a>, École Centrale de Nantes, France
+          - <a href='https://berndbickel.com/'>Bernd Bickel</a>, ETH Zurich, Switzerland
+    - title: (Co-PI) JSPS KAKENHI for the Promotion of Joint International Research
+      year: 2024.09 - 2027.03 <br> (active)
+      description:
+        - 'Project: <i>"Unobtrusive Augmented Reality Visual Guidance with Visual Modality Modulation"</i>'
+        - "PI: <a href='https://augvislab.github.io/people/yuta-itoh'>Yuta Itoh</a>, The University of Tokyo"
+        - title: "Co-PI" 
+          contents:
+          - <a href='https://mvmlab.jp/'>Takefumi Hiraki</a>, Cluster Metaverse Lab
+          - <u>Yuichi Hiroi</u>, Cluster Metaverse Lab
+        - title: "International Collaborators"
+          contents:
+          - <a href='https://www.otago.ac.nz/school-of-computing/our-people/tobias-langlotz'>Tobias Langlotz</a>", University of Otago, New Zealand
+    - title: (PI) JSPS KAKENHI for Early-Career Scientists
+      year: 2023.04 - 2026.03 <br> (active)
+      description:
+        - 'Project: <i>"Spatial Calibration of Head-Mounted Displays Based on Implicit Function Representation of Light Fields Using Deep Learning"</i>'
+    - title: (PI) JSPS KAKENHI for JSPS Research Fellow (PD)
+      year: 2022.04 - 2025.03 <br> (active)
+      description:
+        - 'Project: <i>"Low-latency Vision Augmentation Integrating High-Speed Human and Environmental Measurements with Field-of-View Prediction"</i>'
+    - title: (PI) JSPS KAKENHI for JSPS Research Fellow (DC2)
+      year: 2019.04 - 2022.03
+      description:
+        - 'Project: <i>"Visual Appearance Reproduction by Optical See-Through Head-Mounted Displays based on Measurement and Modulation of Lights"</i>'
 
-- title: Other Interests
-  type: list
+
+
+- title: Education
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Ph.D. in Engineering
+      institution: "Tokyo Institute of Technology / Supervisor: <a href='https://augvislab.github.io/people/yuta-itoh'>Yuta Itoh</a>"
+      location: Tokyo, Japan
+      year: 2019 - 2022
+      description: 
+        - 'Title: <i>"Realistic Appearance Reproduction by Optical See-Through Head-Mounted Display based on Light Measurement and Modulation"</i>'
+    - title: M. Eng.
+      institution: "Keio University / Supervisor: <a href='https://im-lab.net/maki-sugimoto/'>Maki Sugimoto</a>"
+      location: Yokohama, Japan
+      year: 2015 - 2017
+      description:
+        - 'Title: <i>"Manipulation of Visual Appearance of Materials by Combination of Projection and Optical See-Through Displays"<i>'
+
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant on Augmented Reality (CSC.T439)
+      year: 2020-04 - 2020-07
+      institution: Tokyo Institute of Technology
+      description:
+        - Implemented code, created teaching materials and supported the class for MEng/Ph.D. students to develop applications with full-scratch implementation of AR markers using Processing, OpenGL and OpenCV.
+    - title: Teaching Assistant on Experiments in Information Engineering II 
+      year: 2015-09 - 2016-03
+      institution: Keio University
+      description:
+        - Implemented code, created teaching materials and supported the class for Bachelor 3rd students to develop 3D AR applications with Unity and PlayStation Move Controller.
+
+
