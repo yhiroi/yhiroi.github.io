@@ -1,101 +1,210 @@
-- title: Informações Gerais
+# - title: 要約
+#   type: text
+#   contents: |
+#     <b>廣井 裕一</b>は、拡張現実感（AR）、近眼型ディスプレイ技術、視覚拡張、個人化された視覚体験に焦点を当てた研究者です。<a href='https://lamer-e.tv/'>フリーランスのモーショングラフィックスデザイナー</a>としての経歴は、従来のディスプレイの境界を超えた前例のない視覚体験を創造するという彼の情熱を駆り立てました。<br><br>
+
+#     彼の研究は、意図した視覚表現と知覚された視覚表現のギャップを埋めることから始まり、現実世界の光を精密に調節してより自然なAR体験を可能にする、遮蔽可能な光学透過型ヘッドマウントディスプレイ（OST-HMD）へとつながりました。<br><br>
+
+#     視覚の個人差がユーザー体験に影響を与えることを理解し、彼は個人化された視覚拡張に興味を持ち、直接的な眼の測定をHMDや個々の視覚的嗜好に合わせた適応システムと統合しました。<br><br>
+
+#     現在、廣井は<a href='https://lab.cluster.mu/en/'>Cluster Metaverse Lab</a>のシニアリサーチサイエンティストであり、東京大学の<a href='https://lab.rekimoto.org/'>暦本純一研究室</a>の客員研究員です。彼の使命は、視覚認知に焦点を当て、サイバー空間と物理空間を統合することで、VR/AR技術を通じて理想と現実の世界をつなぎ、認知体験を向上させることです。
+
+- title: プロフィール
   type: map
   contents:
-    - name: Nome Completo
-      value: Albert Einstein
-    - name: Data de Nascimento
-      value: 14 de março de 1879
-    - name: Idiomas
-      value: Inglês, Alemão
+    - name: Name
+      value: 廣井 裕一 (Yuichi HIROI)
+    - name: Title
+      value: <a href="https://lab.cluster.mu/en/">クラスターメタバース研究所</a> シニアリサーチサイエンティスト
+    - name: Mail
+      value: "y.hiroi {at} cluster.mu"
+    - name: Website
+      value: "<a href='https://yhiroi.github.io/'>https://yhiroi.github.io/</a>"
+    - name: Scholar
+      value: "<a href='https://scholar.google.com/citations?user=_ICkxzkAAAAJ'>_ICkxzkAAAAJ</a>"
+    - name: Research Interests
+      value: "拡張現実感（AR）、ヘッドマウントディスプレイ光学系、視覚的質感再現、視覚計測、視覚拡張"
 
-- title: Educação
+- title: 職歴
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurique, Suíça
-      year: 1905
+    - title: シニアリサーチサイエンティスト
+      institution: <a href="https://corp.cluster.mu/en">クラスター株式会社</a> <a href="https://lab.cluster.mu/en/">クラスターメタバース研究所</a>
+      location: 東京、日本
+      year: 2023.07 -
+      description: "メタバース空間内での創造活動を加速させるためのAI-supported Interaction、メタバース空間におけるユーザ行動分析およびそ実世界応用に関する研究に従事"
+    - title: 客員研究員
+      institution: "東京大学大学院情報学環 <a href='https://lab.rekimoto.org/'>暦本研究室</a>"
+      location: 東京、日本
+      year: 2023.07 -
       description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Diploma de ensino federal
-      institution: Eidgenössische Technische Hochschule, Zurique, Suíça
-      year: 1900
+        - "ARディスプレイおよび視覚拡張に関する研究に従事"
+    - title: 日本学術振興会 特別研究員 (PD)
+      institution: "東京大学大学院情報学環 <a href='https://lab.rekimoto.org/'>暦本研究室</a>"
+      location: 東京、日本
+      year: 2022.04 - 2023.06
+      description: 
+        - "ARディスプレイおよび視覚拡張に関する研究に従事"
+    - title: 非常勤研究員
+      institution: "<a href='https://www.sonycsl.co.jp/kyoto/en/'>ソニーコンピュータサイエンス研究所 京都研究室</a>"
+      location: 京都、日本
+      year: 2021.06 - 2023.06
       description:
-        - Descrição 1.
-        - Descrição 2.
+        - "Neural Renderingを用いた、ARディスプレイ上での実物体の視覚的質感再現に関する研究に従事"
+    - title: 客員研究員
+      institution: "オタゴ大学 School of Computing, <a href='https://www.hci.otago.ac.nz/'>HCIGroup</a>"
+      location: "オタゴ、ニュージーランド" 
+      year: 2022.12 - 2023.01 <br> 2019.11 - 2020.01
+      description: 
+        - "ウェアラブルデバイスを用いた視覚計測・視覚拡張システムに関する研究に従事"
+    - title: 日本学術振興会 特別研究員 (DC2)
+      institution: "東京工業大学 情報理工学院 情報工学系 <a href='https://augvislab.github.io/people/yuta-itoh'>伊藤研究室</a>"
+      location: 東京、日本
+      year: 2019.04 - 2022.03
+      description: "ARディスプレイおよび視覚拡張に関する研究に従事"
+    - title: プロジェクト研究員
+      institution: "慶應義塾大学 / 指導教員: <a href='https://im-lab.net/maki-sugimoto/'>杉本 麻樹</a>"
+      location: 横浜、日本
+      year: 2019.01 - 2020.03
+      description: "<a href='https://www.jst.go.jp/kisoken/crest/en/project/1111083/14531610.html'>JST CREST 集合視による注視・行動解析に基づくライフイノベーション創出</a>のプロジェクト研究員として、集合視センシングと医療応用に向けたARシステムに関する研究に従事"
+    - title: 研究員
+      institution: NTTサービスエボリューション研究所
+      location: 横須賀、日本
+      year: 2017.04 - 2018.12
+      description: "<a href='https://group.ntt/en/magazine/blog/kirari/'>超臨場感通信技術 Kirari!</a>の要素技術として、深層学習を用いたスポーツシーンにおける人物・物体追跡、および任意視点映像生成に関する研究に従事"
 
-- title: Experiência
-  type: time_table
-  contents:
-    - title: Professor de Física Teórica
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Professor Visitante
-      institution: California Institute of Technology, Pasadena, Califórnia, EUA
-      year: 1933
-      description:
-        - Descrição 1.
-        - Descrição 2.
-
-    - title: Diretor
-      institution: Kaiser Wilhelm Institute for Physics, Berlim, Alemanha.
-      year: 1917-1933
-
-    - title: Professor de Física Teórica
-      institution: Karl-Ferdinand University, Praga, Tchecoslováquia
-      year: 1911 - 1917
-      description:
-
-    - title: Professor Associado de Física Teórica
-      institution: University of Zurich, Zurique, Suíça
-      year: 1909 - 1911
-
-- title: Projetos de Código Aberto
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>
-      year: 2023-atual
-      description: Uma variação do tema al-folio com suporte a múltiplos idiomas.
-
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-atual
-      description: Um tema Jekyll bonito, simples, limpo e responsivo para acadêmicos.
-
-- title: Honrarias e Prêmios
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Prêmio Nobel de Física
-        - Medalha Matteucci
-    - year: 2029
-      items:
-        - Medalha Max Planck
-
-- title: Interesses Acadêmicos
+- title: 学術活動
   type: nested_list
-  contents:
-    - title: Tópico 1.
+  contents:  
+    - title: ワークショップ主催
       items:
-        - Descrição 1.
-        - Descrição 2.
-    - title: Tópico 2.
+        - "<a href='https://sites.google.com/cluster.mu/1st-ws-seamless-reality/'>1st Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2024, 2024, Seattle, USA"
+    - title: プログラム委員
       items:
-        - Descrição 1.
-        - Descrição 2.
+        - "IEEE VR (2025)"
+        - "IEEE ISMAR (2024)"
+        - "ICAT-EGVE (2024)"
+        - "APMAR (2024)"
+    - title: 学会委員
+      items:
+        - "日本バーチャルリアリティ学会 <a href='https://sigmr.vrsj.org/'>複合現実感研究委員会 (SIG-MR)</a> 委員（2023-）"
+    - title: 論文誌査読
+      items:
+        - IEEE Transactions on Visualization and Computer Graphics (2024)
+        - OPTICA Applied Optics (2023)
+        - OPTICA Optics Express (2021)
+        - 日本バーチャルリアリティ学会論文誌 (2023)
+    - title: 国際会議査読
+      items:
+        - IEEE VR (2023 - 2024)
+        - IEEE ISMAR (2023 - 2024)
+        - ACM VRST (2024)
+        - ACM SUI (2023 - 2024)
+        - ACM CHI (2023)
+        - ICAT-EGVE (2024)
+        - APMAR (2024)
+        - SIGGRAPH Asia E-Tech (2024)
 
-- title: Outros Interesses
-  type: list
+- title: 賞罰
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Best Paper Honorable Mention, IEEE VR 2024
+      year: 2024.08
+      description:
+        - 'H. Aoki, T. Tochimoto, <u>Y. Hiroi</u>, Y. Itoh, “Towards Co-operative Beaming Displays: Dual Steering Projectors for Extended Projection Volume and Head Orientation Range”'
+    - title: 1st Place in SIGGRAPH 2024 Student Research Competition for Undergraduate Work
+      year: 2024.03
+      description:
+        - 'S. Hattori, <u>Y. Hiroi</u>, T. Hiraki, “Measurement of the Imperceptible Threshold for Color Vibration Pairs Selected by using MacAdam Ellipse”'
+    - title: 「2022年 日本の光学研究を代表する成果」に選定, 日本光学会 
+      year: 2023.07
+      description:
+        - '<u>Y. Hiroi</u>, K. Someya, Y. Itoh, “Neural Distortion Fields for Spatial Calibration of Wide Field-of-View Near-Eye Displays”'
+    - title: Best Poster Honorable Mention, Augmented Humans 2023
+      year: 2023.03
+      description:
+        - 'Y. Koike, <u>Y. Hiroi</u>, Y. Itoh, J. Rekimoto. 2023. “Brain-Computer Interface using Directional Auditory Perception”'
+    - title: SIG-MR賞、日本バーチャルリアリティ学会
+      year: 2019.3
+      description:
+        - 'T. Hamasaki, Y. Itoh, <u>Y. Hiroi</u>, D. Iwai, M. Sugimoto, "HySAR: Hybrid Material Rendering by an Optical See-Through Head-Mounted Display with Spatial Augmented Reality Projection”'
+    - title: Best Paper 3rd Place, Augmented Human 2017
+      year: 2017
+      description:
+        - '<u>Y. Hiroi</u>, Y. Itoh, T. Hamasaki, M. Sugimoto, “AdaptiVisor: Assisting Eye Adaptation via Occlusive Optical See-Through Head-Mounted Displays”'
+    - title: CG-ARTS賞、公益財団法人画像情報教育振興協会
+      year: 2014
+      description:
+        - CGエンジニアエキスパート、画像処理エンジニアエキスパート試験での優秀な成績により受賞
+
+- title: 研究費
+  type: time_table
+  contents:
+    - title: （分担）JST 先端国際共同研究推進事業 次世代のためのASPIRE
+      year: 2024.02 - 2027.03 <br> （継続中）
+      description:
+        - '研究課題名：「シームレス・リアリティ：実世界指向アバターによるサイバー・フィジカル空間の接合技術基盤」'
+        - "研究代表者：<a href='https://augvislab.github.io/people/yuta-itoh'>伊藤 勇太</a>、東京大学"
+        - title: "共同研究者" 
+          contents:
+          - <a href='https://mvmlab.jp/'>平木 剛史</a>、筑波大学
+          - <u>廣井 裕一</u>、クラスターメタバース研究所
+        - title: "国際共同研究者"
+          contents:
+          - <a href='https://kaanaksit.com/'>Kaan Akşit</a>, University College London, イギリス
+          - <a href='https://jeanmarienormand.fr/'>Jean-Marie Normand</a>, École Centrale de Nantes, フランス
+          - <a href='https://berndbickel.com/'>Bernd Bickel</a>, ETH Zurich, スイス
+    - title: （分担）JSPS 科研費 国際共同研究加速基金（海外連携研究）
+      year: 2024.09 - 2027.03 <br> （継続中）
+      description:
+        - '研究課題名：「視覚モダリティ変調による控えめな拡張現実感視覚ガイダンスの研究」'
+        - "研究代表者：<a href='https://augvislab.github.io/people/yuta-itoh'>伊藤 勇太</a>、東京大学"
+        - title: "共同研究者" 
+          contents:
+          - <a href='https://mvmlab.jp/'>平木 剛史</a>、クラスターメタバース研究所
+          - <u>廣井 裕一</u>、クラスターメタバース研究所
+        - title: "国際共同研究者"
+          contents:
+          - <a href='https://www.otago.ac.nz/school-of-computing/our-people/tobias-langlotz'>Tobias Langlotz</a>、University of Otago、ニュージーランド
+    - title: （代表）JSPS 科研費 若手研究
+      year: 2023.04 - 2026.03 <br> （継続中）
+      description:
+        - '研究課題名：「深層学習による光線場の陰関数表現に基づく頭部搭載型ディスプレイの空間較正」'
+    - title: （代表）JSPS 科研費 特別研究員奨励費（PD）
+      year: 2022.04 - 2025.03 <br> （継続中）
+      description:
+        - '研究課題名：「環境・人間の高速度計測を視界予測と統合する低遅延視覚拡張技術の確立」'
+    - title: （代表）JSPS 科研費 特別研究員奨励費（DC2）
+      year: 2019.04 - 2022.03
+      description:
+        - '研究課題名：「光線の計測と変調に基づく光学シースルー頭部搭載型ディスプレイによる視覚的質感再現」'
+
+- title: 学歴
+  type: time_table
+  contents:
+    - title: 博士（工学）
+      institution: "東京工業大学 情報理工学院 情報工学系 / 指導教員: <a href='https://augvislab.github.io/people/yuta-itoh'>伊藤 勇太</a> 助教"
+      location: 東京、日本
+      year: 2019 - 2022
+      description: 
+        - 'Title: <i>"Realistic Appearance Reproduction by Optical See-Through Head-Mounted Display based on Light Measurement and Modulation"</i>'
+    - title: 修士（工学）
+      institution: "慶應義塾大学大学院 開放環境科学専攻 / 指導教員: <a href='https://im-lab.net/maki-sugimoto/'>杉本 麻樹</a> 准教授"
+      location: 横浜、日本
+      year: 2015 - 2017
+      description:
+        - 'Title: <i>"Manipulation of Visual Appearance of Materials by Combination of Projection and Optical See-Through Displays"<i>'
+
+- title: 教育活動
+  type: time_table
+  contents:
+    - title: Teaching Assistant - 拡張現実感（CSC.T439）
+      year: 2020-04 - 2020-07
+      institution: 東京工業大学
+      description:
+        - Processing、OpenGL、OpenCVを用いたARマーカーのフルスクラッチ実装によるアプリケーション開発を、修士・博士課程の学生を対象に、コードの実装、教材作成、クラスのサポートを実施
+    - title: Teaching Assistant - 情報工学実験II
+      year: 2015-09 - 2016-03
+      institution: 慶應義塾大学
+      description:
+        - UnityとPlayStation Move Controllerを用いた3D ARアプリケーションの開発を、学部3年生を対象に、コードの実装、教材作成、クラスのサポートを実施

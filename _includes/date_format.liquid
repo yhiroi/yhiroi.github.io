@@ -4,6 +4,7 @@
 {% capture month %}{{ months[m] }}{% endcapture %}
 {% capture month %}{{ site.data[site.active_lang].strings.months[include.format][month] }}{% endcapture %}
 {% assign year = include.date | date: '%Y' %}
+{% assign monthja = include.date | date: '%m'%}
 
 {% comment %}
   Here, add language specific date formats
@@ -12,8 +13,10 @@
 {%- if site.active_lang == 'en-us' -%}
   {{ month }}
   {{ day }}, {{ year }}
-{%- elsif site.active_lang == 'jp' -%}
-  {{ year }} {{ month }}, {{ day }}
+{%- elsif site.active_lang == 'ja' -%}
+  {{ year }} /
+  {{ monthja }} /
+  {{ day }} 
 {%- else -%}
   {{ day }}
   {{ month }}
