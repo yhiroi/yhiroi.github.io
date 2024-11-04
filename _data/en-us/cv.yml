@@ -215,4 +215,23 @@
       description:
         - Implemented code, created teaching materials and supported the class for Bachelor 3rd students to develop 3D AR applications with Unity and PlayStation Move Controller.
 
-
+- title: Patents
+  type: nested_list
+  contents:
+    - title: "US Patent: Registered"
+      items:
+        - "Y. Ishii, K. Hidaka, Y. Tonomura, T. Tokunaga, Y. Hiroi, 'Object tracking device, object tracking method, and object tracking program', Nippon Telegraph and Telephone Corp, 2022-07-26. US11398049"
+        - "Y. Hiroi, Y. Ishii, T. Tokunaga, Y. Tonomura, K. Hidaka, 'Object tracker, object tracking method, and computer program', Nippon Telegraph and Telephone Corp, 2022-02-22. US11257224"
+    
+    - title: "US Patent: Pending"
+      items:
+        - "C. W. Ooi, Y. Hiroi, Y. Itoh, 'An Occlusion-Capable Optical See-Through Head-Mounted Display', The University of Tokyo, 2023-03-10. US63/489,502"
+    
+    - title: "Japanese Patent: Registered"
+      items:
+        - "Y. Hiroi, Y. Ishii, T. Tokunaga, Y. Tonomura, K. Hidaka, 'Object tracker, object tracking method, and computer program', Nippon Telegraph and Telephone Corp, 2021-03-10. No. 6850751"
+        - "Y. Ishii, K. Hidaka, Y. Tonomura, T. Tokunaga, Y. Hiroi, 'Object tracking device, object tracking method, and object tracking program', Nippon Telegraph and Telephone Corp, 2020-11-11. No. 6793151"
+    
+    - title: "Japanese Patent: Pending"
+      items:
+        - "Y. Hiroi, T. Hiraki, 'Information Processing Equipment, Information Processing Methods, and Programs', Cluster Inc., 2024-03-12. Appl. No. 2024-037967"

@@ -208,3 +208,24 @@
       institution: 慶應義塾大学
       description:
         - UnityとPlayStation Move Controllerを用いた3D ARアプリケーションの開発を、学部3年生を対象に、コードの実装、教材作成、クラスのサポートを実施
+
+- title: 特許
+  type: nested_list
+  contents:
+    - title: "US Patent: Registered"
+      items:
+        - "Y. Ishii, K. Hidaka, Y. Tonomura, T. Tokunaga, Y. Hiroi, 'Object tracking device, object tracking method, and object tracking program', Nippon Telegraph and Telephone Corp, 2022-07-26. US11398049"
+        - "Y. Hiroi, Y. Ishii, T. Tokunaga, Y. Tonomura, K. Hidaka, 'Object tracker, object tracking method, and computer program', Nippon Telegraph and Telephone Corp, 2022-02-22. US11257224"
+    
+    - title: "US Patent: Pending"
+      items:
+        - "C. W. Ooi, Y. Hiroi, Y. Itoh, 'An Occlusion-Capable Optical See-Through Head-Mounted Display', The University of Tokyo, 2023-03-10. US63/489,502"
+    
+    - title: "特許: 登録済"
+      items:
+        - "廣井 裕一, 石井 陽子, 徳永 徹郎, 外村 喜秀, 日高 浩太, '物体追跡装置、物体追跡方法、及びコンピュータプログラム', 日本電信電話株式会社, 2021-03-10. 特許第6850751号"
+        - "石井 陽子, 日高 浩太, 外村 喜秀, 徳永 徹郎, 廣井 裕一, 'オブジェクトトラッキング装置、オブジェクトトラッキング方法およびオブジェクトトラッキングプログラム', 日本電信電話株式会社, 2020-11-11. 特許第6793151号"
+    
+    - title: "特許: 出願中"
+      items:
+        - "廣井 裕一, 平木 剛史, '情報処理装置、情報処理方法及びプログラム', クラスター株式会社, 2024-03-12. 特願2024-037967"

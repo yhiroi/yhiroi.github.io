@@ -22,6 +22,6 @@ Yuichi received his Ph.D. in engineering at the School of Computing, [Tokyo Inst
 
 Yuichi worked as a researcher in [NTT Service Evolution Laboratory](https://www.rd.ntt/e/svlab/), Japan (2017-2018), and as a post-doc research fellow for the Japan Society for the Promotion of Science (JSPS PD) at the Interfaculty Initiative in Information Studies, [the University of Tokyo](https://www.iii.u-tokyo.ac.jp/), Japan (2022-2023). Currently, he is also a visiting researcher at [Jun Rekimoto Lab](https://lab.rekimoto.org/), the University of Tokyo from 2023. 
 
-Yuichi's research interests include mixed reality, optics for head-mounted displays, vision measurement, and vision augmentation. Over the years, Yuichi’s research works has been recognized with awards from IEEE VR, Augmented Human Conference and ACM SIGGRAPH.
+Yuichi's research interests include mixed reality, near-eye display, vision measurement, and vision augmentation. His research contributions have been consistently published in international journals in the fields of VR/AR and optics, including IEEE TVCG and OPTICA, as well as leading international conferences such as IEEE VR and ISMAR. His work has also been recognized through awards at international venues such as IEEE VR, Augmented Humans, and SIGGRAPH.
 
 Please see more in the detailed CV [here](assets/pdf/en-us/CV_Hiroi_new_1.pdf).
