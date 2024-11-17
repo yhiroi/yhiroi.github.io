@@ -78,6 +78,7 @@
   contents:  
     - title: ワークショップ主催
       items:
+        - "<a href='https://sites.google.com/cluster.mu/2nd-ws-seamless-reality/'>2nd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2025, 2025, Saint-Maro, France (To appear)"        
         - "<a href='https://sites.google.com/cluster.mu/1st-ws-seamless-reality/'>1st Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2024, 2024, Seattle, USA"
     - title: プログラム委員
       items:
@@ -91,12 +92,13 @@
     - title: 論文誌査読
       items:
         - IEEE Transactions on Visualization and Computer Graphics (2024)
+        - Displays (2024)
         - OPTICA Applied Optics (2023)
         - OPTICA Optics Express (2021)
         - 日本バーチャルリアリティ学会論文誌 (2023)
     - title: 国際会議査読
       items:
-        - IEEE VR (2023 - 2024)
+        - IEEE VR (2023 - 2025)
         - IEEE ISMAR (2023 - 2024)
         - ACM VRST (2024)
         - ACM SUI (2023 - 2024)
@@ -175,9 +177,11 @@
       description:
         - '研究課題名：「環境・人間の高速度計測を視界予測と統合する低遅延視覚拡張技術の確立」'
     - title: （代表）JSPS 科研費 特別研究員奨励費（DC2）
-      year: 2019.04 - 2022.03
+      year: 2020.04 - 2022.03
       description:
         - '研究課題名：「光線の計測と変調に基づく光学シースルー頭部搭載型ディスプレイによる視覚的質感再現」'
+    - title: 東京工業大学つばめ博士学生奨学金
+      year: 2019.04 - 2020.03
 
 - title: 学歴
   type: time_table

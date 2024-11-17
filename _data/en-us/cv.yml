@@ -62,7 +62,7 @@
     - title: JSPS Research Fellow (DC2)
       institution: "Tokyo Institute of Technology / Advisor: <a href='https://augvislab.github.io/people/yuta-itoh'>Yuta Itoh</a>"
       location: Tokyo, Japan
-      year: 2019.04 - 2022.03
+      year: 2020.04 - 2022.03
       description: "Conducting doctoral research on AR displays, developing vision augmentation systems, researching optical see-through displays integrating light measurement and modulation"
     - title: Project Researcher
       institution: "Keio University / Advisor: <a href='https://im-lab.net/maki-sugimoto/'>Maki Sugimoto</a>"
@@ -80,6 +80,7 @@
   contents:  
     - title: Workshop Organizer
       items:
+        - "<a href='https://sites.google.com/cluster.mu/2nd-ws-seamless-reality/'>2nd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2025, 2025, Saint-Maro, France (To appear)"   
         - "<a href='https://sites.google.com/cluster.mu/1st-ws-seamless-reality/'>1st Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2024, 2024, Seattle, USA"
     - title: Program Committies
       items:
@@ -93,12 +94,13 @@
     - title: Journal Reviewer
       items:
         - IEEE Transactions on Visualization and Computer Graphics (2024)
+        - Display (2024)
         - OPTICA Applied Optics (2023)
         - OPTICA Optics Express (2021)
         - Journal of the Virtual Reality Society of Japan (2023)
     - title: Conference Reviewer
       items:
-        - IEEE VR (2023 - 2024)
+        - IEEE VR (2023 - 2025)
         - IEEE ISMAR (2023 - 2024)
         - ACM VRST (2024)
         - ACM SUI (2023 - 2024)
@@ -178,10 +180,11 @@
       description:
         - 'Project: <i>"Low-latency Vision Augmentation Integrating High-Speed Human and Environmental Measurements with Field-of-View Prediction"</i>'
     - title: (PI) JSPS KAKENHI for JSPS Research Fellow (DC2)
-      year: 2019.04 - 2022.03
+      year: 2020.04 - 2022.03
       description:
         - 'Project: <i>"Visual Appearance Reproduction by Optical See-Through Head-Mounted Displays based on Measurement and Modulation of Lights"</i>'
-
+    - title: Tokyo Tech TSUBAME Scholarship for Doctoral Students
+      year: 2019.04 - 2020.03
 
 
 - title: Education
