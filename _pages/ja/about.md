@@ -23,4 +23,4 @@ social: false # includes social icons at the bottom of the page
 
 2006年より<a href="http://lamer-e.tv">モーショングラフィクスデザイナー</a>としても活動しており、この経験をもとに、従来のモニターの枠を超え、現実と一体化した映像提示を目指すディスプレイ技術や、現実を超えて個々人の心象や価値選好に働きかける視覚体験の実現を目指して研究に取り組んでいます。
 
-詳細なCVは[こちら](../assets/pdf/en-us/CV_Hiroi_new_1.pdf)よりご覧いただけます。
+詳細なCVは[こちら](../assets/pdf/en-us/CV_Hiroi_new_1_a4.pdf)よりご覧いただけます。

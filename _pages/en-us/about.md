@@ -24,4 +24,4 @@ Yuichi worked as a researcher in [NTT Service Evolution Laboratory](https://www.
 
 Yuichi's research interests include mixed reality, near-eye display, vision measurement, and vision augmentation. His research contributions have been consistently published in international journals in the fields of VR/AR and optics, including IEEE TVCG and OPTICA, as well as leading international conferences such as IEEE VR and ISMAR. His work has also been recognized through awards at international venues such as IEEE VR, Augmented Humans, and SIGGRAPH.
 
-Please see more in the detailed CV [here](assets/pdf/en-us/CV_Hiroi_new_1.pdf).
+Please see more in the detailed CV [here](assets/pdf/en-us/CV_Hiroi_new_1_a4.pdf).
