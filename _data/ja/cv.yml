@@ -107,9 +107,13 @@
         - APMAR (2024)
         - SIGGRAPH Asia E-Tech (2024)
 
-- title: 賞罰
+- title: 受賞
   type: time_table
   contents:
+    - title: 特集テーマセッション賞（ソーシャル・インタラクション）, HCGシンポジウム 2024
+      year: 2024.12
+      description:
+        - '花島諒, 平木剛史, 浦川智弘, 倉井龍太郎, <u>廣井裕一</u>, 大山潤爾, "メタバース社会のコミュニケーションにおける感情表現の大規模調査: ソーシャルVRのエモート分析から", 電子情報通信学会 HCGシンポジウム, 2024年'
     - title: Best Paper Honorable Mention, IEEE VR 2024
       year: 2024.08
       description:
@@ -129,7 +133,7 @@
     - title: SIG-MR賞、日本バーチャルリアリティ学会
       year: 2019.3
       description:
-        - 'T. Hamasaki, Y. Itoh, <u>Y. Hiroi</u>, D. Iwai, M. Sugimoto, "HySAR: Hybrid Material Rendering by an Optical See-Through Head-Mounted Display with Spatial Augmented Reality Projection”'
+        - '浜崎巧, 伊藤勇太, <u>廣井裕一</u>, 岩井大輔, 杉本麻樹, “光学透過型へッドマウントディスプレイを組み合わせた高ダイナミックレンジなプロジェクションマッピング”, 第57回 複合現実感研究会 (SIG-MR), 2019年'
     - title: Best Paper 3rd Place, Augmented Human 2017
       year: 2017
       description:

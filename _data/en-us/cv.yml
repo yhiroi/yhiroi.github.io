@@ -110,37 +110,37 @@
         - SIGGRAPH Asia E-Tech (2024)
       
 
-- title: Honors and Awards
+- title: Honors and Awards (International)
   type: time_table
   contents:
-    - title: Best Paper Honorable Mention, IEEE VR 2024
+    - title: 1st Place in SIGGRAPH 2024 Student Research Competition for Undergraduate Work
       year: 2024.08
       description:
-        - 'H. Aoki, T. Tochimoto, <u>Y. Hiroi</u>, Y. Itoh, “Towards Co-operative Beaming Displays: Dual Steering Projectors for Extended Projection Volume and Head Orientation Range”'
-    - title: 1st Place in SIGGRAPH 2024 Student Research Competition for Undergraduate Work
+        - 'S. Hattori, <u>Y. Hiroi</u>, T. Hiraki, “Measurement of the Imperceptible Threshold for Color Vibration Pairs Selected by using MacAdam Ellipse”'
+    - title: Best Paper Honorable Mention, IEEE VR 2024
       year: 2024.03
       description:
-        - 'S. Hattori, <u>Y. Hiroi</u>, T. Hiraki, “Measurement of the Imperceptible Threshold for Color Vibration Pairs Selected by using MacAdam Ellipse”'
-    - title: Japan's Leading Optics Research in 2022 (Top 30), Optical Society of Japan
-      year: 2023.07
-      description:
-        - '<u>Y. Hiroi</u>, K. Someya, Y. Itoh, “Neural Distortion Fields for Spatial Calibration of Wide Field-of-View Near-Eye Displays”'
+        - 'H. Aoki, T. Tochimoto, <u>Y. Hiroi</u>, Y. Itoh, “Towards Co-operative Beaming Displays: Dual Steering Projectors for Extended Projection Volume and Head Orientation Range”'
+    # - title: Japan's Leading Optics Research in 2022 (Top 30), Optical Society of Japan
+    #   year: 2023.07
+    #   description:
+    #     - '<u>Y. Hiroi</u>, K. Someya, Y. Itoh, “Neural Distortion Fields for Spatial Calibration of Wide Field-of-View Near-Eye Displays”'
     - title: Best Poster Honorable Mention, Augmented Humans 2023
       year: 2023.03
       description:
         - 'Y. Koike, <u>Y. Hiroi</u>, Y. Itoh, J. Rekimoto. 2023. “Brain-Computer Interface using Directional Auditory Perception”'
-    - title: SIG-MR Award, Virtual Reality Society Japan (VRSJ)
-      year: 2019.3
-      description:
-        - 'T. Hamasaki, Y. Itoh, <u>Y. Hiroi</u>, D. Iwai, M. Sugimoto, "HySAR: Hybrid Material Rendering by an Optical See-Through Head-Mounted Display with Spatial Augmented Reality Projection”'
+    # - title: SIG-MR Award, Virtual Reality Society Japan (VRSJ)
+    #   year: 2019.3
+    #   description:
+    #     - 'T. Hamasaki, Y. Itoh, <u>Y. Hiroi</u>, D. Iwai, M. Sugimoto, "HySAR: Hybrid Material Rendering by an Optical See-Through Head-Mounted Display with Spatial Augmented Reality Projection”'
     - title: Best Paper 3rd Place, Augmented Human 2017
       year: 2017
       description:
         - '<u>Y. Hiroi</u>, Y. Itoh, T. Hamasaki, M. Sugimoto, “AdaptiVisor: Assisting Eye Adaptation via Occlusive Optical See-Through Head-Mounted Displays”'
-    - title: CG-ARTS Award, Japan Computer Graphics Arts Society
-      year: 2014
-      description:
-        - For excellent grades in the Expert Certification Test (CG Engineer Experts and Image Processing Engineer Experts)
+    # - title: CG-ARTS Award, Japan Computer Graphics Arts Society
+    #   year: 2014
+    #   description:
+    #     - For excellent grades in the Expert Certification Test (CG Engineer Experts and Image Processing Engineer Experts)
 
 - title: Grants
   type: time_table
