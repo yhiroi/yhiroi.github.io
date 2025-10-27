@@ -76,76 +76,94 @@
 - title: 学術活動
   type: nested_list
   contents:  
+    - title: プログラムチェア
+      items:
+        - "<a href='https://www.apmar2025.site/'>The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025)</a>, 2025, Busan, Korea"
     - title: ワークショップ主催
       items:
+        - "<a href='https://sites.google.com/cluster.mu/3rd-ws-seamless-reality/'>3rd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, ISMAR 2025, 2025, Daejeon, Korea"
         - "<a href='https://sites.google.com/cluster.mu/2nd-ws-seamless-reality/'>2nd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2025, 2025, Saint-Maro, France"        
         - "<a href='https://sites.google.com/cluster.mu/1st-ws-seamless-reality/'>1st Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2024, 2024, Seattle, USA"
     - title: プログラム委員
       items:
-        - "IEEE VR (2025)"
-        - "IEEE ISMAR (2024)"
-        - "ICAT-EGVE (2024)"
+        - "IEEE VR (2025, 2026)"
+        - "IEEE ISMAR (2024, 2025)"
+        - "ICAT-EGVE (2024, 2025)"
         - "APMAR (2024)"
     - title: 学会委員
       items:
+        - "日本バーチャルリアリティ学会 学会誌編集委員（2025-）"
         - "日本バーチャルリアリティ学会 <a href='https://sigmr.vrsj.org/'>複合現実感研究委員会 (SIG-MR)</a> 委員（2023-）"
     - title: 論文誌査読
       items:
         - IEEE Transactions on Visualization and Computer Graphics (2024, 2025)
-        - Displays (2024)
-        - OPTICA Applied Optics (2023)
         - OPTICA Optics Express (2021, 2025)
+        - OPTICA Optics Letter (2025)
+        - Elsevier Display (2024)
+        - OPTICA Applied Optics (2023)
         - 日本バーチャルリアリティ学会論文誌 (2023)
     - title: 国際会議査読
       items:
-        - IEEE VR (2023 - 2025)
-        - IEEE ISMAR (2023 - 2024)
+        - IEEE VR (2023 - 2026)
+        - IEEE ISMAR (2023 - 2025)
+        - ICAT-EGVE (2024 - 2025)
+        - APMAR (2024 - 2025)
         - ACM VRST (2024)
         - ACM SUI (2023 - 2024)
-        - ACM CHI (2023)
-        - ICAT-EGVE (2024)
-        - APMAR (2024)
         - SIGGRAPH Asia E-Tech (2024)
+        - ACM CHI (2023)
 
 - title: 受賞
   type: time_table
   contents:
+    - title: Best Paper Award, ISEMV 2025
+      year: '2025.10'
+      description:
+        - 'H. Tsutsui, T. Hiraki, <u>Y. Hiroi</u>, S. Hasegawa, “Community Analysis of Social Virtual Reality Based on Large-Scale Log Data”'
+    - title: 拡張体験デザイン協会 (DAXX) Good Experience Design Award 2025
+      year: '2025.03'
+      description:
+        - 'R. Kurai, H. Yanagawa, Y. Hiroi, T. Hiraki, “MetaGadget: An Accessible Framework for IoT Integration into Commercial Metaverse Platforms”'
     - title: 特集テーマセッション賞（ソーシャル・インタラクション）, HCGシンポジウム 2024
-      year: 2024.12
+      year: '2024.12'
       description:
         - '花島諒, 平木剛史, 浦川智弘, 倉井龍太郎, <u>廣井裕一</u>, 大山潤爾, "メタバース社会のコミュニケーションにおける感情表現の大規模調査: ソーシャルVRのエモート分析から", 電子情報通信学会 HCGシンポジウム, 2024年'
     - title: Best Paper Honorable Mention, IEEE VR 2024
-      year: 2024.08
+      year: '2024.08'
       description:
         - 'H. Aoki, T. Tochimoto, <u>Y. Hiroi</u>, Y. Itoh, “Towards Co-operative Beaming Displays: Dual Steering Projectors for Extended Projection Volume and Head Orientation Range”'
     - title: 1st Place in SIGGRAPH 2024 Student Research Competition for Undergraduate Work
-      year: 2024.03
+      year: '2024.03'
       description:
         - 'S. Hattori, <u>Y. Hiroi</u>, T. Hiraki, “Measurement of the Imperceptible Threshold for Color Vibration Pairs Selected by using MacAdam Ellipse”'
     - title: 「2022年 日本の光学研究を代表する成果」に選定, 日本光学会 
-      year: 2023.07
+      year: '2023.07'
       description:
         - '<u>Y. Hiroi</u>, K. Someya, Y. Itoh, “Neural Distortion Fields for Spatial Calibration of Wide Field-of-View Near-Eye Displays”'
     - title: Best Poster Honorable Mention, Augmented Humans 2023
-      year: 2023.03
+      year: '2023.03'
       description:
         - 'Y. Koike, <u>Y. Hiroi</u>, Y. Itoh, J. Rekimoto. 2023. “Brain-Computer Interface using Directional Auditory Perception”'
     - title: SIG-MR賞、日本バーチャルリアリティ学会
-      year: 2019.3
+      year: '2019.03'
       description:
         - '浜崎巧, 伊藤勇太, <u>廣井裕一</u>, 岩井大輔, 杉本麻樹, “光学透過型へッドマウントディスプレイを組み合わせた高ダイナミックレンジなプロジェクションマッピング”, 第57回 複合現実感研究会 (SIG-MR), 2019年'
     - title: Best Paper 3rd Place, Augmented Human 2017
-      year: 2017
+      year: '2017.03'
       description:
         - '<u>Y. Hiroi</u>, Y. Itoh, T. Hamasaki, M. Sugimoto, “AdaptiVisor: Assisting Eye Adaptation via Occlusive Optical See-Through Head-Mounted Displays”'
     - title: CG-ARTS賞、公益財団法人画像情報教育振興協会
-      year: 2014
+      year: '2014.03'
       description:
         - CGエンジニアエキスパート、画像処理エンジニアエキスパート試験での優秀な成績により受賞
 
 - title: 研究費
   type: time_table
   contents:
+    - title: （代表）JST さきがけ「人とAIの共生・協働社会を構成する要素研究と基盤技術の創出（共生AI基盤）」
+      year: 2025.10 - 2029.03 <br> （継続中）
+      description:
+        - '研究課題名：「メタバースにおける人-AI協働型コミュニティ形成支援基盤」'
     - title: （分担）JST 先端国際共同研究推進事業 次世代のためのASPIRE
       year: 2024.02 - 2027.03 <br> （継続中）
       description:
@@ -167,17 +185,28 @@
         - "研究代表者：<a href='https://augvislab.github.io/people/yuta-itoh'>伊藤 勇太</a>、東京大学"
         - title: "共同研究者" 
           contents:
-          - <a href='https://mvmlab.jp/'>平木 剛史</a>、クラスターメタバース研究所
+          - <a href='https://mvmlab.jp/'>平木 剛史</a>、筑波大学
           - <u>廣井 裕一</u>、クラスターメタバース研究所
         - title: "国際共同研究者"
           contents:
-          - <a href='https://www.otago.ac.nz/school-of-computing/our-people/tobias-langlotz'>Tobias Langlotz</a>、University of Otago、ニュージーランド
+          - <a href='https://www.otago.ac.nz/school-of-computing/our-people/tobias-langlotz'>Tobias Langlotz</a>、Aarhus University、デンマーク
+    - title: (代表) JSPS 科研費 基盤研究 (B)
+      year: 2025.04 - 2028.03 <br>（継続中）
+      description:
+        -  '研究課題名：「イベントベース眼球収差計測と網膜投影の統合による視覚拡張の高機能化」'
+    - title: (分担) JSPS 科研費 基盤研究 (B)
+      year: 2025.04 - 2028.03 <br>（継続中）
+      description:
+        -  '研究課題名：「レーザー照射によるキャビレーション誘起で生じる光音響効果を用いた触覚ディスプレイ」'
+        - title: "共同研究者" 
+          contents:
+          - <a href='https://mvmlab.jp/'>平木 剛史</a>、筑波大学
     - title: （代表）JSPS 科研費 若手研究
-      year: 2023.04 - 2026.03 <br> （継続中）
+      year: 2023.04 - 2025.03 <br>
       description:
         - '研究課題名：「深層学習による光線場の陰関数表現に基づく頭部搭載型ディスプレイの空間較正」'
     - title: （代表）JSPS 科研費 特別研究員奨励費（PD）
-      year: 2022.04 - 2025.03 <br> （継続中）
+      year: 2022.04 - 2025.03 <br>
       description:
         - '研究課題名：「環境・人間の高速度計測を視界予測と統合する低遅延視覚拡張技術の確立」'
     - title: （代表）JSPS 科研費 特別研究員奨励費（DC2）

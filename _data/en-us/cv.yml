@@ -25,7 +25,7 @@
     - name: Research Interests
       value: "Augmented Reality (AR), Optical See-Through Head-Mounted Displays (OST-HMDs), Realistic Visual Appearance Reproduction, Vision Measurement, Vision Augmentation"
     - name: Location
-      value: "FORECAST Gotanda WEST 10F, 8-9-5, Nishigotanda, Shinagawa, Tokyo 141-0031, Japan"
+      value: "FORECAST Gotanda WEST 5F, 8-9-5, Nishigotanda, Shinagawa, Tokyo 141-0031, Japan"
 
 - title: Work Experience
   type: time_table
@@ -78,73 +78,84 @@
 - title: Academic Service
   type: nested_list
   contents:  
+    - title: Program Chair
+      items:
+        - "<a href='https://www.apmar2025.site/'>The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025)</a>, 2025, Busan, Korea"
     - title: Workshop Organizer
       items:
+        - "<a href='https://sites.google.com/cluster.mu/3rd-ws-seamless-reality/'>3rd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, ISMAR 2025, 2025, Daejeon, Korea"
         - "<a href='https://sites.google.com/cluster.mu/2nd-ws-seamless-reality/'>2nd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2025, 2025, Saint-Maro, France"   
         - "<a href='https://sites.google.com/cluster.mu/1st-ws-seamless-reality/'>1st Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2024, 2024, Seattle, USA"
     - title: Program Committies
       items:
-        - "IEEE VR (2025)"
-        - "IEEE ISMAR (2024)"
-        - "ICAT-EGVE (2024)"
+        - "IEEE VR (2025, 2026)"
+        - "IEEE ISMAR (2024, 2025)"
+        - "ICAT-EGVE (2024, 2025)"
         - "APMAR (2024)"
     - title: Academic Society Committee
       items:
-        - "Virtual Reality Society Japan (VRSJ), SIG-MR Committee (2023-)"
+        - "Virtual Reality Society of Japan (VRSJ), Journal Editor Committee (2025-)"
+        - "VRSJ, <a href='https://sigmr.vrsj.org/index.html'>Special interest group of Mixed Reality</a> (SIG-MR) Committee (2023-)"
     - title: Journal Reviewer
       items:
         - IEEE Transactions on Visualization and Computer Graphics (2024, 2025)
-        - Display (2024)
-        - OPTICA Applied Optics (2023)
         - OPTICA Optics Express (2021, 2025)
+        - OPTICA Optics Letter (2025)
+        - Elsevier Display (2024)
+        - OPTICA Applied Optics (2023)
         - Journal of the Virtual Reality Society of Japan (2023)
     - title: Conference Reviewer
       items:
-        - IEEE VR (2023 - 2025)
-        - IEEE ISMAR (2023 - 2024)
+        - IEEE VR (2023 - 2026)
+        - IEEE ISMAR (2023 - 2025)
+        - ICAT-EGVE (2024 - 2025)
+        - APMAR (2024 - 2025)
         - ACM VRST (2024)
         - ACM SUI (2023 - 2024)
-        - ACM CHI (2023)
-        - ICAT-EGVE (2024)
-        - APMAR (2024)
         - SIGGRAPH Asia E-Tech (2024)
+        - ACM CHI (2023)
       
 
 - title: Honors and Awards (International)
   type: time_table
   contents:
+    - title: Best Paper Award, ISEMV 2025
+      year: '2025.10'
+      description:
+        - 'H. Tsutsui, T. Hiraki, <u>Y. Hiroi</u>, S. Hasegawa, “Community Analysis of Social Virtual Reality Based on Large-Scale Log Data”'
     - title: 1st Place in SIGGRAPH 2024 Student Research Competition for Undergraduate Work
-      year: 2024.08
+      year: '2024.08'
       description:
         - 'S. Hattori, <u>Y. Hiroi</u>, T. Hiraki, “Measurement of the Imperceptible Threshold for Color Vibration Pairs Selected by using MacAdam Ellipse”'
     - title: Best Paper Honorable Mention, IEEE VR 2024
-      year: 2024.03
+      year: '2024.03'
       description:
         - 'H. Aoki, T. Tochimoto, <u>Y. Hiroi</u>, Y. Itoh, “Towards Co-operative Beaming Displays: Dual Steering Projectors for Extended Projection Volume and Head Orientation Range”'
-    # - title: Japan's Leading Optics Research in 2022 (Top 30), Optical Society of Japan
-    #   year: 2023.07
-    #   description:
-    #     - '<u>Y. Hiroi</u>, K. Someya, Y. Itoh, “Neural Distortion Fields for Spatial Calibration of Wide Field-of-View Near-Eye Displays”'
     - title: Best Poster Honorable Mention, Augmented Humans 2023
-      year: 2023.03
+      year: '2023.03'
       description:
         - 'Y. Koike, <u>Y. Hiroi</u>, Y. Itoh, J. Rekimoto. 2023. “Brain-Computer Interface using Directional Auditory Perception”'
-    # - title: SIG-MR Award, Virtual Reality Society Japan (VRSJ)
-    #   year: 2019.3
-    #   description:
-    #     - 'T. Hamasaki, Y. Itoh, <u>Y. Hiroi</u>, D. Iwai, M. Sugimoto, "HySAR: Hybrid Material Rendering by an Optical See-Through Head-Mounted Display with Spatial Augmented Reality Projection”'
     - title: Best Paper 3rd Place, Augmented Human 2017
-      year: 2017
+      year: '2017.03'
       description:
         - '<u>Y. Hiroi</u>, Y. Itoh, T. Hamasaki, M. Sugimoto, “AdaptiVisor: Assisting Eye Adaptation via Occlusive Optical See-Through Head-Mounted Displays”'
-    # - title: CG-ARTS Award, Japan Computer Graphics Arts Society
-    #   year: 2014
-    #   description:
-    #     - For excellent grades in the Expert Certification Test (CG Engineer Experts and Image Processing Engineer Experts)
 
 - title: Grants
   type: time_table
   contents:
+    - title: (PI) JST PRESTO "Symbiotic AI Fundamentals"
+      year: 2025.10 - 2029.03 <br> (active)
+      description:
+        - 'Project: <i>"Infrastructure for Human–AI Collaborative Community Building in the Metaverse"</i>'
+    - title: (PI) JSPS Grant-in-Aid for Scientific Research (B)
+      year: 2025.04 - 2028.03 <br> (active)
+      description:
+        - 'Project: <i>"Visual Augmentation through Integration of Event-Based Ocular Aberration Measurement and Retinal Projection"</i>'
+    - title: (Co-PI) JSPS KAKENHI for Early-Career Scientists (B)
+      year: 2025.04 - 2028.03 <br> (active)
+      description:
+        - 'Project: <i>"Tactile Display Using Photo-acoustic Effects Generated by Laser-Induced Cavitation"</i>'
+        - "PI: <a href='https://mvmlab.jp/'>Takefumi Hiraki</a>, University of Tsukuba"
     - title: (Co-PI) JST ASPIRE for Rising Scientists
       year: 2024.02 - 2027.03 <br> (active)
       description:
@@ -170,13 +181,13 @@
           - <u>Yuichi Hiroi</u>, Cluster Metaverse Lab
         - title: "International Collaborators"
           contents:
-          - <a href='https://www.otago.ac.nz/school-of-computing/our-people/tobias-langlotz'>Tobias Langlotz</a>", University of Otago, New Zealand
+          - <a href='https://www.otago.ac.nz/school-of-computing/our-people/tobias-langlotz'>Tobias Langlotz</a>, Aarhus University, Denmark
     - title: (PI) JSPS KAKENHI for Early-Career Scientists
-      year: 2023.04 - 2026.03 <br> (active)
+      year: 2023.04 - 2025.03 <br>
       description:
         - 'Project: <i>"Spatial Calibration of Head-Mounted Displays Based on Implicit Function Representation of Light Fields Using Deep Learning"</i>'
     - title: (PI) JSPS KAKENHI for JSPS Research Fellow (PD)
-      year: 2022.04 - 2025.03 <br> (active)
+      year: 2022.04 - 2025.03 <br>
       description:
         - 'Project: <i>"Low-latency Vision Augmentation Integrating High-Speed Human and Environmental Measurements with Field-of-View Prediction"</i>'
     - title: (PI) JSPS KAKENHI for JSPS Research Fellow (DC2)

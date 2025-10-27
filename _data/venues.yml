@@ -7,10 +7,16 @@
 "Opt. Exp.":
   color: "#C32B72"
 
+"IEEE Perv. Comp.":
+  color: "#C32B72"
+
 "IEEE VR Poster":
   color: "#666666"
 
 "IEEE VR Workshop":
+  color: "#666666"
+
+"ISMAR Workshop":
   color: "#666666"
 
 "ISMAR Poster":
