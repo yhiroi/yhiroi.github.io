@@ -73,12 +73,16 @@
   bibtex_show={true},
   }
 
+
+
 @ARTICLE{tosa2025chromagazer,
   author={Tosa, Rinto and Hattori, Shingo and Hiroi, Yuichi and Itoh, Yuta and Hiraki, Takefumi},
   journal={IEEE Transactions on Visualization and Computer Graphics}, 
   title={ChromaGazer: Unobtrusive Visual Modulation using Imperceptible Color Vibration for Visual Guidance}, 
   year={2025},
-  volume={to appear},
+  volume={31},
+  number={5},
+  pages={3450-3458},
   abstract={Visual guidance (VG) plays an essential role in directing user attention in virtual reality (VR) and augmented reality (AR) environments. However, traditional approaches rely on explicit visual annotations, which often compromise visual clarity and increase user cognitive load. To address this issue, we propose an unobtrusive VG technique based on color vibration, a phenomenon in which rapidly alternating colors at frequencies above 25 Hz are perceived as a single intermediate color. Our work explores a perceptual state that exists between complete color fusion and visible flicker, where color differences remain detectable without conscious awareness of vibration. Through two experimental studies, we first identified the thresholds separating complete fusion, this intermediate perceptual state, and visible flicker by systematically varying color vibration parameters. Subsequently, we applied color vibrations with derived thresholds to natural image regions and validated their attention-guiding capabilities using eye-tracking measurements. The results demonstrate that controlled color vibration successfully directs user attention while maintaining low cognitive demand, providing an effective method for implementing unobtrusive VG in VR and AR systems.},
   keywords={Visual Guidance;Imperceptible Color Vibration;Color Perception;Augmented Reality},
   pdf={2025_IEEEVR_ChromaGazer.pdf},
@@ -87,10 +91,30 @@
   arxiv={2412.17274},
   bibtex_show={true},
   selected={true},
+  doi={10.1109/TVCG.2025.3549173}
   }
 
 
-
+@inproceedings{nara2025saccaidance,
+author = {Nara, Masahiro and Miyazaki, Ryusuke and Hiroi, Yuichi and Hiraki, Takefumi and Itoh, Yuta and Miyafuji, Shio},
+title = {Saccaidance: Saccade-Aware Pattern Embedding for Gaze Guidance on High-Speed Displays},
+year = {2025},
+isbn = {9798400721182},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3756884.3766051},
+doi = {10.1145/3756884.3766051},
+abstract = {Gaze guidance is essential for directing user attention to specific areas of interest. However, conventional visual cues generate persistent visual noise that hinders concentration during tasks. We propose Saccaidance, a gaze-guidance method that appears only when users move their gaze. Saccaidance employs temporal additive color mixing and 480 Hz high-speed displays to shift the color phase of guidance patterns. This renders the patterns barely visible during fixation and makes them appear transiently when users move their gaze as a color-breaking effect. This intermittent gaze guidance appears only during gaze transitions, providing effective guidance without interfering with focused work or requiring eye-tracking hardware. We conducted experiments with 24 participants under four conditions that involved search tasks: an unmodified baseline, conventional explicit guidance, and our proposed method using oval and radial patterns. The results show that our approach effectively constrains the exploration area while preserving subjective naturalness. We also outline application scenarios of our method, including document highlighting.},
+booktitle = {Proceedings of the 2025 31st ACM Symposium on Virtual Reality Software and Technology},
+articleno = {36},
+numpages = {11},
+keywords = {Gaze Guidance, Temporal Additive Color Mixing, Color Vibration, Augmented Reality},
+abbr={ACM VRST},
+series = {VRST '25},
+bibtex_show={true},
+pdf={2025_VRST_Saccaidance.pdf},
+preview={2025-saccaidance.jpg}
+}
 
 @inproceedings{kitagishi2025pinching,
 author = {Kitagishi, Takekazu and Ooi, Chun Wei and Hiroi, Yuichi and Rekimoto, Jun},
@@ -205,6 +229,29 @@ preview={2025-pinching-tactile.png}
   doi={10.1109/VR59515.2025.00059},
   pdf={2025_IEEEVR_HOE_Beaming.pdf},
   bibtex_show={true},
+}
+
+@inproceedings{eguchi2025tactile,
+author = {Eguchi, Michikuni and Kitagishi, Takekazu and Hiroi, Yuichi and Hiraki, Takefumi},
+title = {Tactile Data Recording System for Clothing with Motion-Controlled Robotic Sliding},
+year = {2025},
+isbn = {9798400721342},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3757374.3771452},
+doi = {10.1145/3757374.3771452},
+abstract = {The tactile sensation of clothing is critical to wearer comfort. To reveal physical properties that make clothing comfortable, systematic collection of tactile data during sliding motion is required. Recent studies demonstrate that tactile data obtained through stroking with systematically varied speeds and directions encode material properties more accurately. However, prior methods are optimized for small samples and inadequately address non-destructive recording of intact garments, limiting their scalability to large clothing databases where non-destructive measurement is essential. We propose a robotic arm-based system for collecting tactile data from clothing. The system performs stroking measurements with a simulated fingertip while precisely controlling speeds and directions without cutting clothing, thus enabling the creation of motion-labeled, multimodal tactile databases. Machine learning evaluation showed that including motion-related parameters (velocity and direction) improved identification accuracy for audio and/or acceleration, demonstrating the efficacy of motion-related labels for characterizing clothing tactile sensation.},
+booktitle = {Proceedings of the SIGGRAPH Asia 2025 Posters},
+articleno = {31},
+numpages = {3},
+keywords = {Haptics, Tactile Sensation, Textiles, Clothes, Machine Learning},
+location = {Hong Kong},
+series = {SA Posters '25},
+month={Oct},
+abbr={SA Poster},
+bibtex_show={true},
+preview={2025-tactile-measurement.jpg},
+pdf={2025_ISMAR_poster_RAPHO.pdf}
 }
 
 
