@@ -103,6 +103,29 @@
   - firstname: ["Satomi"]
     url: https://imsatomi.github.io/
 
+"ishiguro":
+  - firstname: ["Yoshio"]
+    url: https://ishiguro-lab.org/
+"normand":
+  - firstname: ["Jean-Marie"]
+    url: https://jeanmarienormand.fr/
+
+"fribourg":
+  - firstname: ["Rebecca"]
+    url: https://rebeccafribourg.com/
+
+"riviere":
+  - firstname: ["Jean-Philippe"]
+    url: https://jean-py.github.io/jpriviere/
+
+"peillard":
+  - firstname: ["Etienne"]
+    url: https://www.etiennepeillard.com/
+
+"yokoi":
+  - firstname: ["Sotaro"]
+    url: https://www.yokoi-sotaro.com/
+
 "hasegawa":
   - firstname: ["Shoichi"]
     url: https://haselab.net/

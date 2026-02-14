@@ -25,7 +25,7 @@
     - name: Research Interests
       value: "Augmented Reality (AR), Optical See-Through Head-Mounted Displays (OST-HMDs), Realistic Visual Appearance Reproduction, Vision Measurement, Vision Augmentation"
     - name: Location
-      value: "FORECAST Gotanda WEST 5F, 8-9-5, Nishigotanda, Shinagawa, Tokyo 141-0031, Japan"
+      value: "FORECAST Gotanda WEST 2F, 8-9-5, Nishigotanda, Shinagawa, Tokyo 141-0031, Japan"
 
 - title: Work Experience
   type: time_table
@@ -36,9 +36,15 @@
       year: 2023.07 -
       description: "In addition to ongoing AR display research, I am engaged in research on accelerating spatial design and experiential creativity within metaverse platforms, personalized metaverse experiences, and translating behavioral analysis of metaverse spaces into real-world applications."
     - title: Visiting Researcher
+      institution: "Institute of Science Tokyo / Advisor: <a href='https://www.ar.comp.isct.ac.jp/people/yuta-itoh'>Yuta Itoh</a>"
+      location: Yokohama, Japan
+      year: 2026.02 - 
+      description:
+        - "Collaborate on research related to AR displays and vision augmentation."
+    - title: Visiting Researcher
       institution: "The University of Tokyo / Advisor: <a href='https://lab.rekimoto.org/members/rekimoto/'>Jun Rekimoto</a>"
       location: Tokyo, Japan
-      year: 2023.07 -
+      year: 2023.07 - 2026.03
       description:
         - "Collaborate on research related to AR displays and vision augmentation."
     - title: JSPS Research Fellow (PD)
@@ -98,8 +104,8 @@
         - "VRSJ, <a href='https://sigmr.vrsj.org/index.html'>Special interest group of Mixed Reality</a> (SIG-MR) Committee (2023-)"
     - title: Journal Reviewer
       items:
-        - IEEE Transactions on Visualization and Computer Graphics (2024, 2025)
-        - OPTICA Optics Express (2021, 2025)
+        - IEEE Transactions on Visualization and Computer Graphics (2024, 2025, 2026)
+        - OPTICA Optics Express (2021, 2025, 2026)
         - OPTICA Optics Letter (2025)
         - Elsevier Display (2024)
         - OPTICA Applied Optics (2023)

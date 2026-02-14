@@ -34,9 +34,15 @@
       year: 2023.07 -
       description: "メタバースにおけるユーザの創造活動を加速させるためのAI-supported Interactionや、メタバースにおける行動分析とその実世界応用に関する研究に従事"
     - title: 客員研究員
+      institution: "東京科学大学情報理工学院 <a href='https://www.ar.comp.isct.ac.jp/'>伊藤研究室</a>"
+      location: 東京、日本
+      year: 2026.02 - 
+      description:
+        - "ARディスプレイおよび視覚拡張に関する研究に従事"
+    - title: 客員研究員
       institution: "東京大学大学院情報学環 <a href='https://lab.rekimoto.org/'>暦本研究室</a>"
       location: 東京、日本
-      year: 2023.07 -
+      year: 2023.07 - 2026.03
       description:
         - "ARディスプレイおよび視覚拡張に関する研究に従事"
     - title: 日本学術振興会 特別研究員 (PD)
@@ -96,8 +102,8 @@
         - "日本バーチャルリアリティ学会 <a href='https://sigmr.vrsj.org/'>複合現実感研究委員会 (SIG-MR)</a> 委員（2023-）"
     - title: 論文誌査読
       items:
-        - IEEE Transactions on Visualization and Computer Graphics (2024, 2025)
-        - OPTICA Optics Express (2021, 2025)
+        - IEEE Transactions on Visualization and Computer Graphics (2024, 2025, 2026)
+        - OPTICA Optics Express (2021, 2025, 2026)
         - OPTICA Optics Letter (2025)
         - Elsevier Display (2024)
         - OPTICA Applied Optics (2023)
