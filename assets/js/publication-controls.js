@@ -8,10 +8,11 @@ document.addEventListener("DOMContentLoaded", () => {
   let category = "all";
 
   const applyFilters = () => {
-    const query = (search?.value || "").trim().toLocaleLowerCase();
+    const query = ((search && search.value) || "").trim().toLocaleLowerCase();
     let count = 0;
     entries.forEach((entry) => {
-      const type = entry.querySelector("[data-publication-category]")?.dataset.publicationCategory;
+      const categoryBadge = entry.querySelector("[data-publication-category]");
+      const type = categoryBadge && categoryBadge.dataset.publicationCategory;
       const visible = (category === "all" || category === type) && entry.textContent.toLocaleLowerCase().includes(query);
       entry.classList.toggle("unloaded", !visible);
       if (visible) count += 1;
@@ -37,10 +38,10 @@ document.addEventListener("DOMContentLoaded", () => {
     category = button.dataset.category;
     applyFilters();
   }));
-  search?.addEventListener("input", applyFilters);
+  if (search) search.addEventListener("input", applyFilters);
   const readHash = () => {
     let hash;
-    try { hash = decodeURIComponent(window.location.hash.slice(1)); } catch { return; }
+    try { hash = decodeURIComponent(window.location.hash.slice(1)); } catch (error) { return; }
     if (search && !document.getElementById(hash)) search.value = hash;
     applyFilters();
   };
