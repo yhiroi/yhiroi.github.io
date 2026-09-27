@@ -1,29 +1,18 @@
-# - title: 要約
-#   type: text
-#   contents: |
-#     <b>廣井 裕一</b>は、拡張現実感（AR）、近眼型ディスプレイ技術、視覚拡張、個人化された視覚体験に焦点を当てた研究者です。<a href='https://lamer-e.tv/'>フリーランスのモーショングラフィックスデザイナー</a>としての経歴は、従来のディスプレイの境界を超えた前例のない視覚体験を創造するという彼の情熱を駆り立てました。<br><br>
-
-#     彼の研究は、意図した視覚表現と知覚された視覚表現のギャップを埋めることから始まり、現実世界の光を精密に調節してより自然なAR体験を可能にする、遮蔽可能な光学透過型ヘッドマウントディスプレイ（OST-HMD）へとつながりました。<br><br>
-
-#     視覚の個人差がユーザー体験に影響を与えることを理解し、彼は個人化された視覚拡張に興味を持ち、直接的な眼の測定をHMDや個々の視覚的嗜好に合わせた適応システムと統合しました。<br><br>
-
-#     現在、廣井は<a href='https://lab.cluster.mu/en/'>Cluster Metaverse Lab</a>のシニアリサーチサイエンティストであり、東京大学の<a href='https://lab.rekimoto.org/'>暦本純一研究室</a>の客員研究員です。彼の使命は、視覚認知に焦点を当て、サイバー空間と物理空間を統合することで、VR/AR技術を通じて理想と現実の世界をつなぎ、認知体験を向上させることです。
-
 - title: プロフィール
   type: map
   contents:
-    - name: Name
+    - name: 氏名
       value: 廣井 裕一 (Yuichi HIROI)
-    - name: Title
-      value: <a href="https://lab.cluster.mu/en/">クラスターメタバース研究所</a> シニアリサーチサイエンティスト
+    - name: 所属
+      value: <a href="https://lab.cluster.mu/en/">クラスターメタバース研究所</a> シニアリサーチサイエンティスト<br><a href="https://www.ar.comp.isct.ac.jp/">東京科学大学</a> 客員研究員
     - name: Mail
       value: "y.hiroi {at} cluster.mu"
     - name: Website
       value: "<a href='https://yhiroi.github.io/'>https://yhiroi.github.io/</a>"
     - name: Scholar
       value: "<a href='https://scholar.google.com/citations?user=_ICkxzkAAAAJ'>_ICkxzkAAAAJ</a>"
-    - name: Research Interests
-      value: "拡張現実感（AR）、ヘッドマウントディスプレイ光学系、視覚的質感再現、視覚計測、視覚拡張"
+    - name: 研究分野
+      value: "複合現実感・拡張現実感（MR/AR）、光学シースルーヘッドマウントディスプレイ、視覚的質感再現、視覚拡張、メタバースインタラクション"
 
 - title: 職歴
   type: time_table
@@ -32,10 +21,10 @@
       institution: <a href="https://corp.cluster.mu/en">クラスター株式会社</a> <a href="https://lab.cluster.mu/en/">クラスターメタバース研究所</a>
       location: 東京、日本
       year: 2023.07 -
-      description: "メタバースにおけるユーザの創造活動を加速させるためのAI-supported Interactionや、メタバースにおける行動分析とその実世界応用に関する研究に従事"
+      description: "パーソナライズされたメタバースインタラクションとVR/ARにおけるAIエージェントを研究。商用メタバースでの創造活動支援、行動分析、人とAIの協働によるコミュニティ形成に取り組む"
     - title: 客員研究員
       institution: "東京科学大学情報理工学院 <a href='https://www.ar.comp.isct.ac.jp/'>伊藤研究室</a>"
-      location: 東京、日本
+      location: 横浜、日本
       year: 2026.02 - 
       description:
         - "ARディスプレイおよび視覚拡張に関する研究に従事"
@@ -65,8 +54,8 @@
         - "ウェアラブルデバイスを用いた視覚計測および視覚拡張システムに関する研究に従事"
     - title: 日本学術振興会 特別研究員 (DC2)
       institution: "東京工業大学 情報理工学院 情報工学系 <a href='https://augvislab.github.io/people/yuta-itoh'>伊藤研究室</a>"
-      location: 東京、日本
-      year: 2019.04 - 2022.03
+      location: 横浜、日本
+      year: 2020.04 - 2022.03
       description: "ARディスプレイおよび視覚拡張に関する研究に従事"
     - title: プロジェクト研究員
       institution: "慶應義塾大学 / 指導教員: <a href='https://im-lab.net/maki-sugimoto/'>杉本 麻樹</a>"
@@ -79,71 +68,115 @@
       year: 2017.04 - 2018.12
       description: "<a href='https://group.ntt/en/magazine/blog/kirari/'>超臨場感通信技術 Kirari!</a>の要素技術として、深層学習を用いたスポーツシーンにおける人物・物体追跡、および任意視点映像生成に関する研究に従事"
 
+    - title: システムエンジニア（短期契約）
+      institution: 株式会社NTTデータ
+      location: 東京、日本
+      year: 2017.04 - 2017.09
+      description: "モバイルアプリケーション開発に従事"
+
 - title: 学術活動
   type: nested_list
   contents:  
+    - title: ジェネラルチェア
+      items:
+        - "The 19th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2027), 2027"
+        - "<a href='https://sites.google.com/view/apmar2026/'>The 18th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2026)</a>, 2026, Taiwan"
     - title: プログラムチェア
       items:
         - "<a href='https://www.apmar2025.site/'>The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025)</a>, 2025, Busan, Korea"
+    - title: セミナー主催
+      items:
+        - "<a href='https://shonan.nii.ac.jp/seminars/242/'>NII Shonan Meeting No. 242 “Seamless Reality”</a>, 2026年6月1-4日, 神奈川"
     - title: ワークショップ主催
       items:
+        - "<a href='https://sites.google.com/cluster.mu/5th-ws-seamless-reality/'>5th Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE ISMAR 2026, 2026, Bari, Italy"
+        - "<a href='https://sites.google.com/cluster.mu/4th-ws-seamless-reality/'>4th Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2026, 2026"
         - "<a href='https://sites.google.com/cluster.mu/3rd-ws-seamless-reality/'>3rd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, ISMAR 2025, 2025, Daejeon, Korea"
-        - "<a href='https://sites.google.com/cluster.mu/2nd-ws-seamless-reality/'>2nd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2025, 2025, Saint-Maro, France"        
+        - "<a href='https://sites.google.com/cluster.mu/2nd-ws-seamless-reality/'>2nd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2025, 2025, Saint-Malo, France"
         - "<a href='https://sites.google.com/cluster.mu/1st-ws-seamless-reality/'>1st Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2024, 2024, Seattle, USA"
     - title: プログラム委員
       items:
-        - "IEEE VR (2025, 2026)"
-        - "IEEE ISMAR (2024, 2025)"
-        - "ICAT-EGVE (2024, 2025)"
+        - "IEEE VR (2025-2027)"
+        - "IEEE ISMAR (2024-26)"
+        - "ICAT-EGVE (2024-26)"
+        - "ACM VRST (2026)"
+        - "ACM ICMI (2026)"
+        - "EuroXR (2026)"
         - "APMAR (2024)"
+    - title: 編集委員
+      items:
+        - "日本バーチャルリアリティ学会誌 特集「AIとVR」ゲストエディタ（2026）"
+        - "日本バーチャルリアリティ学会 学会誌編集委員（2025-）"
     - title: 学会委員
       items:
-        - "日本バーチャルリアリティ学会 学会誌編集委員（2025-）"
         - "日本バーチャルリアリティ学会 <a href='https://sigmr.vrsj.org/'>複合現実感研究委員会 (SIG-MR)</a> 委員（2023-）"
     - title: 論文誌査読
       items:
-        - IEEE Transactions on Visualization and Computer Graphics (2024, 2025, 2026)
-        - OPTICA Optics Express (2021, 2025, 2026)
-        - OPTICA Optics Letter (2025)
-        - Elsevier Display (2024)
-        - OPTICA Applied Optics (2023)
+        - IEEE Transactions on Visualization and Computer Graphics (2024-26)
+        - OPTICA Optics Express (2021, 2025-26)
+        - OPTICA Optics Letters (2025-26)
+        - Elsevier Displays (2024)
+        - OPTICA Applied Optics (2023, 2025)
         - 日本バーチャルリアリティ学会論文誌 (2023)
     - title: 国際会議査読
       items:
-        - IEEE VR (2023 - 2026)
-        - IEEE ISMAR (2023 - 2025)
-        - ICAT-EGVE (2024 - 2025)
-        - APMAR (2024 - 2025)
-        - ACM VRST (2024)
-        - ACM SUI (2023 - 2024)
-        - SIGGRAPH Asia E-Tech (2024)
-        - ACM CHI (2023)
+        - IEEE VR (2023-26)
+        - IEEE ISMAR (2023-26)
+        - ICAT-EGVE (2024-26)
+        - ACM VRST (2024, 2026)
+        - ACM ICMI (2026)
+        - EuroXR (2026)
+        - SIGGRAPH (2026)
+        - SIGGRAPH Asia E-Tech (2024, 2026)
+        - APMAR (2024)
+        - ACM SUI (2023-24)
+        - ACM CHI (2024)
+
+    - title: セッションチェア
+      items:
+        - IEEE AIxVR (2026)
+        - IEEE VR (2024-25)
+        - IMID (2025)
+        - ACM VRST (2022)
+    - title: 所属学会
+      items:
+        - IEEE
+        - ACM
+        - 日本バーチャルリアリティ学会（VRSJ）
 
 - title: 受賞
   type: time_table
   contents:
-    - title: Best Paper Award, ISEMV 2025
+    - title: Best Presentation Award, APMAR 2026
+      year: '2026.08'
+      description:
+        - 'Y-H. Hu, S. Yokoi, Y. Hatada, <u>Y. Hiroi</u>, T. Narumi, T. Hiraki, “The Metaverse as a Scientific Instrument: LUIDA, from Unified Experiment Infrastructure toward Bridging Research and Society”'
+    - title: Best Paper Award, IEEE ISEMV 2025
       year: '2025.10'
       description:
         - 'H. Tsutsui, T. Hiraki, <u>Y. Hiroi</u>, S. Hasegawa, “Community Analysis of Social Virtual Reality Based on Large-Scale Log Data”'
     - title: 拡張体験デザイン協会 (DAXX) Good Experience Design Award 2025
+      year: '2025.05'
+      description:
+        - 'R. Kurai, H. Yanagawa, <u>Y. Hiroi</u>, T. Hiraki, “MetaGadget: An Accessible Framework for IoT Integration into Commercial Metaverse Platforms”'
+    - title: インタラクティブ発表賞（PC推薦）, インタラクション2025
       year: '2025.03'
       description:
-        - 'R. Kurai, H. Yanagawa, Y. Hiroi, T. Hiraki, “MetaGadget: An Accessible Framework for IoT Integration into Commercial Metaverse Platforms”'
+        - '沈有方, 土佐凛斗, 畑田裕二, <u>廣井裕一</u>, 平木剛史, 苗村健, "HMDユーザの探索行動支援に向けた目立たない両眼相補的色振動による視線誘導", 情報処理学会 インタラクション2025, 2025年'
     - title: 特集テーマセッション賞（ソーシャル・インタラクション）, HCGシンポジウム 2024
       year: '2024.12'
       description:
         - '花島諒, 平木剛史, 浦川智弘, 倉井龍太郎, <u>廣井裕一</u>, 大山潤爾, "メタバース社会のコミュニケーションにおける感情表現の大規模調査: ソーシャルVRのエモート分析から", 電子情報通信学会 HCGシンポジウム, 2024年'
-    - title: Best Paper Honorable Mention, IEEE VR 2024
+    - title: 1st Place in SIGGRAPH 2024 Student Research Competition for Undergraduate Work
       year: '2024.08'
       description:
-        - 'H. Aoki, T. Tochimoto, <u>Y. Hiroi</u>, Y. Itoh, “Towards Co-operative Beaming Displays: Dual Steering Projectors for Extended Projection Volume and Head Orientation Range”'
-    - title: 1st Place in SIGGRAPH 2024 Student Research Competition for Undergraduate Work
+        - 'S. Hattori, <u>Y. Hiroi</u>, T. Hiraki, “Measurement of the Imperceptible Threshold for Color Vibration Pairs Selected by using MacAdam Ellipse”'
+    - title: Best Paper Honorable Mention, IEEE VR 2024
       year: '2024.03'
       description:
-        - 'S. Hattori, <u>Y. Hiroi</u>, T. Hiraki, “Measurement of the Imperceptible Threshold for Color Vibration Pairs Selected by using MacAdam Ellipse”'
-    - title: 「2022年 日本の光学研究を代表する成果」に選定, 日本光学会 
-      year: '2023.07'
+        - 'H. Aoki, T. Tochimoto, <u>Y. Hiroi</u>, Y. Itoh, “Towards Co-operative Beaming Displays: Dual Steering Projectors for Extended Projection Volume and Head Orientation Range”'
+    - title: 「2022年 日本の光学研究を代表する成果」に選定, 日本光学会
+      year: '2023.06'
       description:
         - '<u>Y. Hiroi</u>, K. Someya, Y. Itoh, “Neural Distortion Fields for Spatial Calibration of Wide Field-of-View Near-Eye Displays”'
     - title: Best Poster Honorable Mention, Augmented Humans 2023
@@ -159,7 +192,7 @@
       description:
         - '<u>Y. Hiroi</u>, Y. Itoh, T. Hamasaki, M. Sugimoto, “AdaptiVisor: Assisting Eye Adaptation via Occlusive Optical See-Through Head-Mounted Displays”'
     - title: CG-ARTS賞、公益財団法人画像情報教育振興協会
-      year: '2014.03'
+      year: '2014.02'
       description:
         - CGエンジニアエキスパート、画像処理エンジニアエキスパート試験での優秀な成績により受賞
 
@@ -169,10 +202,12 @@
     - title: （代表）JST さきがけ「人とAIの共生・協働社会を構成する要素研究と基盤技術の創出（共生AI基盤）」
       year: 2025.10 - 2029.03 <br> （継続中）
       description:
+        - "課題番号: JPMJPR2529"
         - '研究課題名：「メタバースにおける人-AI協働型コミュニティ形成支援基盤」'
     - title: （分担）JST 先端国際共同研究推進事業 次世代のためのASPIRE
       year: 2024.02 - 2027.03 <br> （継続中）
       description:
+        - "課題番号: JPMJAP2327"
         - '研究課題名：「シームレス・リアリティ：実世界指向アバターによるサイバー・フィジカル空間の接合技術基盤」'
         - "研究代表者：<a href='https://augvislab.github.io/people/yuta-itoh'>伊藤 勇太</a>、東京大学"
         - title: "共同研究者" 
@@ -187,6 +222,7 @@
     - title: （分担）JSPS 科研費 国際共同研究加速基金（海外連携研究）
       year: 2024.09 - 2027.03 <br> （継続中）
       description:
+        - "課題番号: <a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24KK0187/'>24KK0187</a>"
         - '研究課題名：「視覚モダリティ変調による控えめな拡張現実感視覚ガイダンスの研究」'
         - "研究代表者：<a href='https://augvislab.github.io/people/yuta-itoh'>伊藤 勇太</a>、東京大学"
         - title: "共同研究者" 
@@ -199,10 +235,12 @@
     - title: (代表) JSPS 科研費 基盤研究 (B)
       year: 2025.04 - 2028.03 <br>（継続中）
       description:
+        - "課題番号: <a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K03173/'>25K03173</a>"
         -  '研究課題名：「イベントベース眼球収差計測と網膜投影の統合による視覚拡張の高機能化」'
     - title: (分担) JSPS 科研費 基盤研究 (B)
       year: 2025.04 - 2028.03 <br>（継続中）
       description:
+        - "課題番号: <a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K00145/'>25K00145</a>"
         -  '研究課題名：「レーザー照射によるキャビレーション誘起で生じる光音響効果を用いた触覚ディスプレイ」'
         - title: "共同研究者" 
           contents:
@@ -210,14 +248,17 @@
     - title: （代表）JSPS 科研費 若手研究
       year: 2023.04 - 2025.03 <br>
       description:
+        - "課題番号: <a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K16920/'>23K16920</a>"
         - '研究課題名：「深層学習による光線場の陰関数表現に基づく頭部搭載型ディスプレイの空間較正」'
     - title: （代表）JSPS 科研費 特別研究員奨励費（PD）
       year: 2022.04 - 2025.03 <br>
       description:
+        - "課題番号: <a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22J01340/'>22J01340</a>"
         - '研究課題名：「環境・人間の高速度計測を視界予測と統合する低遅延視覚拡張技術の確立」'
     - title: （代表）JSPS 科研費 特別研究員奨励費（DC2）
       year: 2020.04 - 2022.03
       description:
+        - "課題番号: <a href='https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20J14971/'>20J14971</a>"
         - '研究課題名：「光線の計測と変調に基づく光学シースルー頭部搭載型ディスプレイによる視覚的質感再現」'
     - title: 東京工業大学つばめ博士学生奨学金
       year: 2019.04 - 2020.03
@@ -228,21 +269,31 @@
     - title: 博士（工学）
       institution: "東京工業大学 情報理工学院 情報工学系 / 指導教員: <a href='https://augvislab.github.io/people/yuta-itoh'>伊藤 勇太</a> 助教"
       location: 東京、日本
-      year: 2019 - 2022
+      year: 2019.04 - 2022.03
       description: 
         - 'Title: <i>"Realistic Appearance Reproduction by Optical See-Through Head-Mounted Display based on Light Measurement and Modulation"</i>'
     - title: 修士（工学）
       institution: "慶應義塾大学大学院 開放環境科学専攻 / 指導教員: <a href='https://im-lab.net/maki-sugimoto/'>杉本 麻樹</a> 准教授"
       location: 横浜、日本
-      year: 2015 - 2017
+      year: 2015.04 - 2017.03
       description:
-        - 'Title: <i>"Manipulation of Visual Appearance of Materials by Combination of Projection and Optical See-Through Displays"<i>'
+        - 'Title: <i>"Manipulation of Visual Appearance of Materials by Combination of Projection and Optical See-Through Displays"</i>'
 
 - title: 教育活動
   type: time_table
   contents:
+    - title: 講師 - コンテンツ開発（0ATW217）
+      year: 2026-10 - 2026-12
+      institution: 筑波大学
+      description:
+        - 修士課程の学生を対象とした「コンテンツ開発」の講義を担当
+    - title: 講師 - コンテンツ開発（0ATW217）
+      year: 2025-10 - 2025-12
+      institution: 筑波大学
+      description:
+        - 修士課程の学生を対象に、Adobe After Effectsを用いた映像制作のハンズオンワークショップと、その基礎となるデジタル画像処理・色彩科学・コンピュータグラフィクスの原理に関する講義を実施
     - title: Teaching Assistant - 拡張現実感（CSC.T439）
-      year: 2020-04 - 2020-07
+      year: 2020-04 - 2020-07 <br> 2019-04 - 2019-07
       institution: 東京工業大学
       description:
         - Processing、OpenGL、OpenCVを用いたARマーカーのフルスクラッチ実装によるアプリケーション開発を、修士・博士課程の学生を対象に、コードの実装、教材作成、クラスのサポートを実施
@@ -266,9 +317,11 @@
     
     - title: "特許: 登録済"
       items:
-        - "廣井 裕一, 石井 陽子, 徳永 徹郎, 外村 喜秀, 日高 浩太, '物体追跡装置、物体追跡方法、及びコンピュータプログラム', 日本電信電話株式会社, 2021-03-10. 特許第6850751号"
+        - "柳川 光理, 廣井 裕一, 平木 剛史, '情報処理システム、情報処理方法及びプログラム', クラスター株式会社, 2026-05-11. 特許第7861975号"
+        - "廣井 裕一, 石井 陽子, 徳永 徹郎, 外村 喜秀, 日高 浩太, '物体追跡装置、物体追跡方法、及びコンピュータプログラム', 日本電信電話株式会社, 2021-03-10. 特許第6850741号"
         - "石井 陽子, 日高 浩太, 外村 喜秀, 徳永 徹郎, 廣井 裕一, 'オブジェクトトラッキング装置、オブジェクトトラッキング方法およびオブジェクトトラッキングプログラム', 日本電信電話株式会社, 2020-11-11. 特許第6793151号"
     
     - title: "特許: 出願中"
       items:
+        - "茨 真徳, 平木 剛史, 亀谷 卓志, 横井 総太朗, 時田 聡実, 廣井 裕一, '情報処理方法、情報処理装置、プログラム及びシステム', クラスター株式会社, 2025-08-28. 特願2025-141831"
         - "廣井 裕一, 平木 剛史, '情報処理装置、情報処理方法及びプログラム', クラスター株式会社, 2024-03-12. 特願2024-037967"

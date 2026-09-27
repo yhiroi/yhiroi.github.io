@@ -41,7 +41,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 bib_search: true
@@ -217,6 +217,8 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _drafts/
+  - docs/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -326,6 +328,9 @@ scholar:
   details_link: Details
 
   query: "@*"
+  # Within each year, group by category and show newest (highest number) first.
+  sort_by: category, publication_number, title
+  order: ascending, descending, ascending
   group_by: year
   group_order: descending
 
@@ -345,6 +350,10 @@ filtered_bibtex_keywords:
     additional_info,
     altmetric,
     annotation,
+    category,
+    pubdate,
+    publication_type,
+    publication_number,
     arxiv,
     award,
     award_name,
@@ -492,7 +501,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Noto+Sans+JP:wght@400;500;600;700&display=swap"
   highlightjs:
     integrity:
       css:

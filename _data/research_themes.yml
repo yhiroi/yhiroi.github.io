@@ -1,0 +1,44 @@
+[
+  {
+    "id": "shaping-light",
+    "title": "Shaping Light",
+    "projects": [
+      "light-attenuation-displays",
+      "occlusion-capable-displays",
+      "beaming-displays",
+      "neural-rendering-displays"
+    ],
+    "label": "A",
+    "description": {
+      "ja": "光の制御によって思い描いた像を視界に提示し、現実と想像をつなぐディスプレイ技術を探究します。",
+      "en-us": "We shape light to bring imagined scenes into view, exploring new ways for the real and the imagined to meet."
+    }
+  },
+  {
+    "id": "augmenting-vision",
+    "title": "Augmenting Vision",
+    "projects": [
+      "vision-augmentation",
+      "imperceptible-color-vibration"
+    ],
+    "label": "B",
+    "description": {
+      "ja": "人間の知覚への理解をもとに、見慣れた世界の新たな見え方を探り、視覚体験の可能性を広げます。",
+      "en-us": "Even the familiar world holds sights yet unseen. Guided by human perception, we explore what more it could mean to see."
+    }
+  },
+  {
+    "id": "connecting-imaginations",
+    "title": "Connecting Imaginations",
+    "projects": [
+      "embodied-ai-agents",
+      "community-analysis",
+      "metaverse-creation-tools"
+    ],
+    "label": "C",
+    "description": {
+      "ja": "人と人、人とAIの交流を通じて、互いの想像が創作につながる環境を研究します。個人の発想を超えた表現や体験が生まれる可能性を探ります。",
+      "en-us": "One person’s imagination can spark another’s creation. Where people and AI meet, experiences can emerge that no one could have imagined alone."
+    }
+  }
+]

@@ -1,0 +1,30 @@
+J:
+  short_label: Journal
+  label_en: Journal articles
+  label_ja: 論文誌
+  color: "var(--publication-journal-color)"
+CF:
+  short_label: Conference
+  label_en: Conference full papers
+  label_ja: 国際会議フルペーパー
+  color: "var(--publication-conference-color)"
+CP:
+  short_label: Poster
+  label_en: Posters / Work-in-Progress
+  label_ja: ポスター・Work-in-Progress
+  color: "var(--publication-conference-color)"
+CD:
+  short_label: Demo
+  label_en: Demonstrations
+  label_ja: デモ発表
+  color: "var(--publication-conference-color)"
+CW:
+  short_label: Workshop
+  label_en: Workshop presentations
+  label_ja: ワークショップ
+  color: "var(--publication-conference-color)"
+P:
+  short_label: Preprint
+  label_en: Preprints
+  label_ja: プレプリント
+  color: "var(--publication-preprint-color)"

@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: 廣井 裕一 / <i><a href='https://lab.cluster.mu/en/'>クラスターメタバース研究所</a> シニアリサーチサイエンティスト 博士(工学) </i>
+subtitle: 廣井 裕一 / <i><a href='https://lab.cluster.mu/en/'>クラスターメタバース研究所</a> シニアリサーチサイエンティスト・博士（工学）</i>
 
 profile:
   align: right
@@ -17,10 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-2017年に慶應義塾大学大学院開放環境科学専攻修士課程（<a href="https://im-lab.net/maki-sugimoto/">杉本</a>・<a href="https://lclab.org/people/yutasugiura">杉浦</a>研究室）修了後、<a href="https://www.rd.ntt/svlab/">NTTサービスエボリューション研究所</a>に研究員として入社。退職後、2019年に東京工業大学（現：東京科学大学）情報理工学院博士後期課程（<a href="https://augvislab.github.io/people/yuta-itoh">伊藤研究室</a>）に進学し、2022年に博士（工学）を取得。同年より、東京大学大学院情報学環（<a href="https://lab.rekimoto.org/members/rekimoto/">暦本研究室</a>）にて日本学術振興会 特別研究員（PD）。2023年より現職。2026年より、東京科学大学情報理工学院 <a href="https://www.ar.comp.isct.ac.jp/">伊藤研究室</a>にて客員研究員。
+2017年に慶應義塾大学大学院開放環境科学専攻修士課程（[杉本](https://im-lab.net/maki-sugimoto/)・[杉浦](https://lclab.org/people/yutasugiura)研究室）を修了し、[NTTサービスエボリューション研究所](https://www.rd.ntt/svlab/)に入社。退職後、2019年に東京工業大学（現：東京科学大学）情報理工学院博士後期課程（[伊藤研究室](https://augvislab.github.io/people/yuta-itoh)）に進学し、2022年に博士（工学）を取得。同年より東京大学大学院情報学環（[暦本研究室](https://lab.rekimoto.org/members/rekimoto/)）にて日本学術振興会特別研究員（PD）を務め、2023年より現職。2026年より東京科学大学情報理工学院[伊藤研究室](https://www.ar.comp.isct.ac.jp/)の客員研究員を兼任。
 
-複合現実感、ヘッドマウントディスプレイ光学系、視覚計測、視覚拡張などの研究に従事。研究成果は、IEEE、OPTICAなど、VR/ARおよび光学分野におけるトップ国際論文誌、および IEEE VR, ISMARなどのトップ国際会議に継続的に掲載されている。また、国際会議IEEE VR, Augmented Humans, SIGGRAPHなど、国内外で表彰を受ける。
+複合現実感や視覚体験に関する研究を中心に、ディスプレイ光学系、視覚計測・拡張、メタバースのコミュニティ分析やAIによる活動支援に取り組む。研究成果は、IEEE TVCG、Optics Expressなどの国際論文誌や、IEEE VR、ISMARなどの国際会議で発表している。また、IEEE VR、Augmented Humans、SIGGRAPHなど、国内外で研究成果に対する表彰を受ける。
 
-2006年より<a href="http://lamer-e.tv">モーショングラフィクスデザイナー</a>としても活動しており、この経験をもとに、従来のモニターの枠を超え、現実と一体化した映像提示を目指すディスプレイ技術や、現実を超えて個々人の心象や価値選好に働きかける視覚体験の実現を目指して研究に取り組んでいます。
+2006年より[モーショングラフィクスデザイナー](http://lamer-e.tv/)としても活動しています。自らの映像制作と、作り手たちが作品や技術を持ち寄り、新しい表現を生み出す文化への関心を原点に、視覚体験を軸として人の想像力と創造力を引き出す技術と環境を探究しています。人間の知覚への理解に立脚し、新しい視覚体験を可能にする光学・ディスプレイ技術を探究するとともに、創作・探索・交流を通じた自由な想像の広がりを支え、まだ観ぬ表現や体験が生まれる環境を目指しています。
 
-詳細なCVは[こちら](../assets/pdf/en-us/CV_Hiroi_new_1_a4.pdf)よりご覧いただけます。
+詳細な経歴・研究業績は[CV]({{ '/assets/pdf/en-us/CV_Hiroi_new_1_a4.pdf' | relative_url }})をご覧ください。

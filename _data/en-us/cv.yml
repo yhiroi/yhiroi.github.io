@@ -1,13 +1,11 @@
 - title: Summary
   type: text
   contents: |
-    <b>Yuichi HIROI</b> is a researcher focusing on Augmented Reality (AR), near-eye display technologies, vision augmentation, and personalized visual experiences. His background as <a href='https://lamer-e.tv/'> a freelance motion graphics designer </a> has driven his passion for creating unprecedented visual experiences that transcend conventional display boundaries. <br><br>
+    <b>Yuichi HIROI, Ph.D.</b> is a Senior Research Scientist at <a href='https://lab.cluster.mu/en/'>Cluster Metaverse Lab</a>, Cluster Inc., and a Visiting Researcher at the <a href='https://www.ar.comp.isct.ac.jp/'>Yuta Itoh Lab</a>, Institute of Science Tokyo. He aims to expand human imagination and creativity through his research, especially on visual experiences, which spans mixed reality, display optics, vision measurement and augmentation, metaverse community analysis, and AI support for creative and exploratory activities. <br><br>
 
-    His research began with bridging the gap between intended and perceived visual expression, leading to occlusion-capable Optical See-Through Head-Mounted Displays (OST-HMDs) that enable precise modulation of real-world light for more natural AR experiences. <br><br>
+    He received his Ph.D. in Engineering from Tokyo Institute of Technology in March 2022. His previous research appointments include NTT Service Evolution Laboratory, Keio University, Sony CSL Kyoto, and the University of Tokyo. At Cluster, he studies how AI agents and behavioral analysis can support people's activities and community formation in metaverse platforms. Since October 2025, he has led the <a href='https://www.jst.go.jp/kisoken/presto/en/project/1112123/1112123_2025.html'>JST PRESTO project “Infrastructure for Human–AI Collaborative Community Building in the Metaverse”</a>. <br><br>
 
-    Understanding that individual differences in visual perception affect user experience, he developed an interest in personalized vision augmentation, integrating direct eye measurements with HMDs and adaptive systems that cater to individual visual preferences. <br><br>
-
-    Currently, Yuichi is a Senior Research Scientist at <a href='https://lab.cluster.mu/en/'>Cluster Metaverse Lab</a> and a visiting researcher at <a href='https://lab.rekimoto.org/'>Jun Rekimoto Lab</a>, the University of Tokyo. His mission is to bridge the ideal and real worlds through VR/AR technologies, enhancing cognitive experiences by integrating cyber and physical spaces, with a focus on visual perception.
+    He has also worked as a <a href='https://lamer-e.tv/'>freelance motion graphics designer</a> since 2006. Inspired by his own creative practice and communities where creators share their work and techniques, he investigates optical and display technologies grounded in human perception, as well as environments that support creation, exploration, and exchange. He seeks to help individual creative efforts inspire one another, giving rise to expressions and experiences no one could have envisioned alone.
 
 - title: Profile
   type: map
@@ -15,15 +13,15 @@
     - name: Name
       value: Yuichi HIROI (廣井 裕一)
     - name: Title
-      value: Senior Research Scientist at <a href="https://lab.cluster.mu/en/">Cluster Metaverse Lab</a>
+      value: Senior Research Scientist at <a href="https://lab.cluster.mu/en/">Cluster Metaverse Lab</a><br>Visiting Researcher at <a href="https://www.ar.comp.isct.ac.jp/">Institute of Science Tokyo</a>
     - name: Email
       value: "y.hiroi {at} cluster.mu"
     - name: Website
       value: "<a href='https://yhiroi.github.io/'>https://yhiroi.github.io/</a>"
-    - name: Scholor
+    - name: Scholar
       value: "<a href='https://scholar.google.com/citations?user=_ICkxzkAAAAJ'>_ICkxzkAAAAJ</a>"
     - name: Research Interests
-      value: "Augmented Reality (AR), Optical See-Through Head-Mounted Displays (OST-HMDs), Realistic Visual Appearance Reproduction, Vision Measurement, Vision Augmentation"
+      value: "Mixed / Augmented Reality (MR/AR), Optical See-Through Head-Mounted Displays (OST-HMDs), Realistic Visual Appearance Reproduction, Vision Augmentation, Metaverse Interaction"
     - name: Location
       value: "FORECAST Gotanda WEST 2F, 8-9-5, Nishigotanda, Shinagawa, Tokyo 141-0031, Japan"
 
@@ -34,7 +32,7 @@
       institution: <a href="https://lab.cluster.mu/en/">Cluster Metaverse Lab</a>, <a href="https://corp.cluster.mu/en">Cluster Inc.</a>
       location: Tokyo, Japan
       year: 2023.07 -
-      description: "In addition to ongoing AR display research, I am engaged in research on accelerating spatial design and experiential creativity within metaverse platforms, personalized metaverse experiences, and translating behavioral analysis of metaverse spaces into real-world applications."
+      description: "Research on personalized metaverse interaction and AI agents in VR/AR, including support for creative activities, behavioral analysis, and human–AI collaborative community formation in commercial metaverse platforms."
     - title: Visiting Researcher
       institution: "Institute of Science Tokyo / Advisor: <a href='https://www.ar.comp.isct.ac.jp/people/yuta-itoh'>Yuta Itoh</a>"
       location: Yokohama, Japan
@@ -67,7 +65,7 @@
         - "Engage in international collaborative research exchanges on vision augmentation systems based on personal visual measurements."
     - title: JSPS Research Fellow (DC2)
       institution: "Tokyo Institute of Technology / Advisor: <a href='https://augvislab.github.io/people/yuta-itoh'>Yuta Itoh</a>"
-      location: Tokyo, Japan
+      location: Yokohama, Japan
       year: 2020.04 - 2022.03
       description: "Conducting doctoral research on AR displays, developing vision augmentation systems, researching optical see-through displays integrating light measurement and modulation"
     - title: Project Researcher
@@ -81,51 +79,91 @@
       year: 2017.04 - 2018.12
       description: "As part of the ultra-immersive communication technology <a href='https://group.ntt/en/magazine/blog/kirari/'>'Kirari!'</a>, I conducted research on person and object tracking systems in sports movements and on video generation technologies from arbitrary viewpoints."
 
+    - title: System Engineer (Short-term Contract)
+      institution: NTT DATA Corporation
+      location: Tokyo, Japan
+      year: 2017.04 - 2017.09
+      description: "Mobile app development."
+
 - title: Academic Service
   type: nested_list
   contents:  
+    - title: General Chair
+      items:
+        - "The 19th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2027), 2027"
+        - "<a href='https://sites.google.com/view/apmar2026/'>The 18th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2026)</a>, 2026, Taiwan"
     - title: Program Chair
       items:
         - "<a href='https://www.apmar2025.site/'>The 17th Asia-Pacific Workshop on Mixed and Augmented Reality (APMAR 2025)</a>, 2025, Busan, Korea"
+    - title: Seminar Organizer
+      items:
+        - "<a href='https://shonan.nii.ac.jp/seminars/242/'>NII Shonan Meeting No. 242 “Seamless Reality”</a>, Jun. 1-4, 2026, Kanagawa, Japan"
     - title: Workshop Organizer
       items:
+        - "<a href='https://sites.google.com/cluster.mu/5th-ws-seamless-reality/'>5th Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE ISMAR 2026, 2026, Bari, Italy"
+        - "<a href='https://sites.google.com/cluster.mu/4th-ws-seamless-reality/'>4th Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2026, 2026"
         - "<a href='https://sites.google.com/cluster.mu/3rd-ws-seamless-reality/'>3rd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, ISMAR 2025, 2025, Daejeon, Korea"
-        - "<a href='https://sites.google.com/cluster.mu/2nd-ws-seamless-reality/'>2nd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2025, 2025, Saint-Maro, France"   
+        - "<a href='https://sites.google.com/cluster.mu/2nd-ws-seamless-reality/'>2nd Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2025, 2025, Saint-Malo, France"
         - "<a href='https://sites.google.com/cluster.mu/1st-ws-seamless-reality/'>1st Workshop on Seamless Reality: AR Technologies for Seamless Perception and Cognition between Cyber and Physical Spaces (WSR)</a>, IEEE VR 2024, 2024, Seattle, USA"
-    - title: Program Committies
+    - title: Program Committees
       items:
-        - "IEEE VR (2025, 2026)"
-        - "IEEE ISMAR (2024, 2025)"
-        - "ICAT-EGVE (2024, 2025)"
+        - "IEEE VR (2025-2027)"
+        - "IEEE ISMAR (2024-26)"
+        - "ICAT-EGVE (2024-26)"
+        - "ACM VRST (2026)"
+        - "ACM ICMI (2026)"
+        - "EuroXR (2026)"
         - "APMAR (2024)"
+    - title: Editorial Service
+      items:
+        - "Guest Editor, Special Issue on “AI and VR”, Journal of the Virtual Reality Society of Japan (2026)"
+        - "Virtual Reality Society of Japan (VRSJ), Journal Editor Committee (2025-)"
     - title: Academic Society Committee
       items:
-        - "Virtual Reality Society of Japan (VRSJ), Journal Editor Committee (2025-)"
         - "VRSJ, <a href='https://sigmr.vrsj.org/index.html'>Special interest group of Mixed Reality</a> (SIG-MR) Committee (2023-)"
     - title: Journal Reviewer
       items:
-        - IEEE Transactions on Visualization and Computer Graphics (2024, 2025, 2026)
-        - OPTICA Optics Express (2021, 2025, 2026)
-        - OPTICA Optics Letter (2025)
-        - Elsevier Display (2024)
-        - OPTICA Applied Optics (2023)
+        - IEEE Transactions on Visualization and Computer Graphics (2024-26)
+        - OPTICA Optics Express (2021, 2025-26)
+        - OPTICA Optics Letters (2025-26)
+        - Elsevier Displays (2024)
+        - OPTICA Applied Optics (2023, 2025)
         - Journal of the Virtual Reality Society of Japan (2023)
     - title: Conference Reviewer
       items:
-        - IEEE VR (2023 - 2026)
-        - IEEE ISMAR (2023 - 2025)
-        - ICAT-EGVE (2024 - 2025)
-        - APMAR (2024 - 2025)
-        - ACM VRST (2024)
-        - ACM SUI (2023 - 2024)
-        - SIGGRAPH Asia E-Tech (2024)
-        - ACM CHI (2023)
+        - IEEE VR (2023-26)
+        - IEEE ISMAR (2023-26)
+        - ICAT-EGVE (2024-26)
+        - ACM VRST (2024, 2026)
+        - ACM ICMI (2026)
+        - EuroXR (2026)
+        - SIGGRAPH (2026)
+        - SIGGRAPH Asia E-Tech (2024, 2026)
+        - APMAR (2024)
+        - ACM SUI (2023-24)
+        - ACM CHI (2024)
       
+
+    - title: Session Chair
+      items:
+        - IEEE AIxVR (2026)
+        - IEEE VR (2024-25)
+        - IMID (2025)
+        - ACM VRST (2022)
+    - title: Professional Memberships
+      items:
+        - IEEE
+        - ACM
+        - Virtual Reality Society of Japan (VRSJ)
 
 - title: Honors and Awards (International)
   type: time_table
   contents:
-    - title: Best Paper Award, ISEMV 2025
+    - title: Best Presentation Award, APMAR 2026
+      year: '2026.08'
+      description:
+        - 'Y-H. Hu, S. Yokoi, Y. Hatada, <u>Y. Hiroi</u>, T. Narumi, T. Hiraki, “The Metaverse as a Scientific Instrument: LUIDA, from Unified Experiment Infrastructure toward Bridging Research and Society”'
+    - title: Best Paper Award, IEEE ISEMV 2025
       year: '2025.10'
       description:
         - 'H. Tsutsui, T. Hiraki, <u>Y. Hiroi</u>, S. Hasegawa, “Community Analysis of Social Virtual Reality Based on Large-Scale Log Data”'
@@ -146,25 +184,57 @@
       description:
         - '<u>Y. Hiroi</u>, Y. Itoh, T. Hamasaki, M. Sugimoto, “AdaptiVisor: Assisting Eye Adaptation via Occlusive Optical See-Through Head-Mounted Displays”'
 
+- title: Honors and Awards (Domestic)
+  type: time_table
+  contents:
+    - title: Good Experience Design Award 2025, DAXX
+      year: '2025.05'
+      description:
+        - 'R. Kurai, H. Yanagawa, <u>Y. Hiroi</u>, T. Hiraki, “MetaGadget: An Accessible Framework for IoT Integration into Commercial Metaverse Platforms”'
+    - title: Interactive Presentation Award (PC Selection), Interaction 2025
+      year: '2025.03'
+      description:
+        - '沈有方, 土佐凛斗, 畑田裕二, <u>廣井裕一</u>, 平木剛史, 苗村健, "HMDユーザの探索行動支援に向けた目立たない両眼相補的色振動による視線誘導", 情報処理学会 インタラクション2025, 2025年'
+    - title: Special Theme Session Award (Social Interaction), HCG Symposium 2024
+      year: '2024.12'
+      description:
+        - '花島諒, 平木剛史, 浦川智弘, 倉井龍太郎, <u>廣井裕一</u>, 大山潤爾, "メタバース社会のコミュニケーションにおける感情表現の大規模調査: ソーシャルVRのエモート分析から", 電子情報通信学会 HCGシンポジウム, 2024年'
+    - title: Selected as a Representative Achievement in Japanese Optics Research in 2022, Optical Society of Japan
+      year: '2023.06'
+      description:
+        - '<u>Y. Hiroi</u>, K. Someya, Y. Itoh, “Neural Distortion Fields for Spatial Calibration of Wide Field-of-View Near-Eye Displays”'
+    - title: SIG-MR Award, Virtual Reality Society of Japan
+      year: '2019.03'
+      description:
+        - '浜崎巧, 伊藤勇太, <u>廣井裕一</u>, 岩井大輔, 杉本麻樹, “光学透過型へッドマウントディスプレイを組み合わせた高ダイナミックレンジなプロジェクションマッピング”, 第57回 複合現実感研究会 (SIG-MR), 2019年'
+    - title: CG-ARTS Award
+      year: '2014.02'
+      description:
+        - Recognized for outstanding performance in the CG Engineer Expert and Image Processing Engineer Expert certification examinations.
+
 - title: Grants
   type: time_table
   contents:
     - title: (PI) JST PRESTO "Symbiotic AI Fundamentals"
       year: 2025.10 - 2029.03 <br> (active)
       description:
+        - "Grant number: JPMJPR2529"
         - 'Project: <i>"Infrastructure for Human–AI Collaborative Community Building in the Metaverse"</i>'
     - title: (PI) JSPS Grant-in-Aid for Scientific Research (B)
       year: 2025.04 - 2028.03 <br> (active)
       description:
+        - "Grant number: <a href='https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K03173/'>25K03173</a>"
         - 'Project: <i>"Visual Augmentation through Integration of Event-Based Ocular Aberration Measurement and Retinal Projection"</i>'
-    - title: (Co-PI) JSPS KAKENHI for Early-Career Scientists (B)
+    - title: (Co-PI) JSPS Grant-in-Aid for Scientific Research (B)
       year: 2025.04 - 2028.03 <br> (active)
       description:
+        - "Grant number: <a href='https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K00145/'>25K00145</a>"
         - 'Project: <i>"Tactile Display Using Photo-acoustic Effects Generated by Laser-Induced Cavitation"</i>'
         - "PI: <a href='https://mvmlab.jp/'>Takefumi Hiraki</a>, University of Tsukuba"
     - title: (Co-PI) JST ASPIRE for Rising Scientists
       year: 2024.02 - 2027.03 <br> (active)
       description:
+        - "Grant number: JPMJAP2327"
         - 'Project: <i>"Seamless Reality: A Technological Foundation for Merging Cyber-Physical Spaces through Real-World-Oriented Avatars"</i>'
         - "PI: <a href='https://augvislab.github.io/people/yuta-itoh'>Yuta Itoh</a>, The University of Tokyo"
         - title: "Co-PI" 
@@ -179,6 +249,7 @@
     - title: (Co-PI) JSPS KAKENHI for the Promotion of Joint International Research
       year: 2024.09 - 2027.03 <br> (active)
       description:
+        - "Grant number: <a href='https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KK0187/'>24KK0187</a>"
         - 'Project: <i>"Unobtrusive Augmented Reality Visual Guidance with Visual Modality Modulation"</i>'
         - "PI: <a href='https://augvislab.github.io/people/yuta-itoh'>Yuta Itoh</a>, The University of Tokyo"
         - title: "Co-PI" 
@@ -191,14 +262,17 @@
     - title: (PI) JSPS KAKENHI for Early-Career Scientists
       year: 2023.04 - 2025.03 <br>
       description:
+        - "Grant number: <a href='https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K16920/'>23K16920</a>"
         - 'Project: <i>"Spatial Calibration of Head-Mounted Displays Based on Implicit Function Representation of Light Fields Using Deep Learning"</i>'
     - title: (PI) JSPS KAKENHI for JSPS Research Fellow (PD)
       year: 2022.04 - 2025.03 <br>
       description:
+        - "Grant number: <a href='https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22J01340/'>22J01340</a>"
         - 'Project: <i>"Low-latency Vision Augmentation Integrating High-Speed Human and Environmental Measurements with Field-of-View Prediction"</i>'
     - title: (PI) JSPS KAKENHI for JSPS Research Fellow (DC2)
       year: 2020.04 - 2022.03
       description:
+        - "Grant number: <a href='https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20J14971/'>20J14971</a>"
         - 'Project: <i>"Visual Appearance Reproduction by Optical See-Through Head-Mounted Displays based on Measurement and Modulation of Lights"</i>'
     - title: Tokyo Tech TSUBAME Scholarship for Doctoral Students
       year: 2019.04 - 2020.03
@@ -210,22 +284,32 @@
     - title: Ph.D. in Engineering
       institution: "Tokyo Institute of Technology / Supervisor: <a href='https://augvislab.github.io/people/yuta-itoh'>Yuta Itoh</a>"
       location: Tokyo, Japan
-      year: 2019 - 2022
+      year: 2019.04 - 2022.03
       description: 
         - 'Title: <i>"Realistic Appearance Reproduction by Optical See-Through Head-Mounted Display based on Light Measurement and Modulation"</i>'
     - title: M. Eng.
       institution: "Keio University / Supervisor: <a href='https://im-lab.net/maki-sugimoto/'>Maki Sugimoto</a>"
       location: Yokohama, Japan
-      year: 2015 - 2017
+      year: 2015.04 - 2017.03
       description:
-        - 'Title: <i>"Manipulation of Visual Appearance of Materials by Combination of Projection and Optical See-Through Displays"<i>'
+        - 'Title: <i>"Manipulation of Visual Appearance of Materials by Combination of Projection and Optical See-Through Displays"</i>'
 
 
 - title: Teaching
   type: time_table
   contents:
+    - title: Lecturer on Contents Development (0ATW217)
+      year: 2026-10 - 2026-12
+      institution: University of Tsukuba
+      description:
+        - Teaching the Contents Development course for master's students.
+    - title: Lecturer on Contents Development (0ATW217)
+      year: 2025-10 - 2025-12
+      institution: University of Tsukuba
+      description:
+        - Delivered a hands-on workshop on video production with Adobe After Effects, complemented by lectures on the underlying principles of digital image processing, color science, and computer graphics for MEng students.
     - title: Teaching Assistant on Augmented Reality (CSC.T439)
-      year: 2020-04 - 2020-07
+      year: 2020-04 - 2020-07 <br> 2019-04 - 2019-07
       institution: Tokyo Institute of Technology
       description:
         - Implemented code, created teaching materials and supported the class for MEng/Ph.D. students to develop applications with full-scratch implementation of AR markers using Processing, OpenGL and OpenCV.
@@ -249,9 +333,11 @@
     
     - title: "Japanese Patent: Registered"
       items:
-        - "Y. Hiroi, Y. Ishii, T. Tokunaga, Y. Tonomura, K. Hidaka, 'Object tracker, object tracking method, and computer program', Nippon Telegraph and Telephone Corp, 2021-03-10. No. 6850751"
+        - "H. Yanagawa, Y. Hiroi, T. Hiraki, 'Information Processing System, Information Processing Methods, and Programs', Cluster Inc., 2026-05-11. No. 7861975"
+        - "Y. Hiroi, Y. Ishii, T. Tokunaga, Y. Tonomura, K. Hidaka, 'Object tracker, object tracking method, and computer program', Nippon Telegraph and Telephone Corp, 2021-03-10. No. 6850741"
         - "Y. Ishii, K. Hidaka, Y. Tonomura, T. Tokunaga, Y. Hiroi, 'Object tracking device, object tracking method, and object tracking program', Nippon Telegraph and Telephone Corp, 2020-11-11. No. 6793151"
     
     - title: "Japanese Patent: Pending"
       items:
+        - "M. Ibara, T. Hiraki, T. Kamegai, S. Yokoi, S. Tokida, Y. Hiroi, 'Information Processing Method, Equipment, Program, and System', Cluster Inc., 2025-08-28. Appl. No. 2025-141831"
         - "Y. Hiroi, T. Hiraki, 'Information Processing Equipment, Information Processing Methods, and Programs', Cluster Inc., 2024-03-12. Appl. No. 2024-037967"

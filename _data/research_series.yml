@@ -1,0 +1,256 @@
+[
+  {
+    "id": "embodied-ai-agents",
+    "title": "AI Agents in Social VR & Field Studies",
+    "image": "2026-ai-agent-field-study.png",
+    "description": {
+      "ja": "人と同じバーチャル空間で会話し、周囲に働きかけるAIエージェントを研究しています。実際のSocial VRでの継続的な運用を通じて、人々の反応や行動、エージェントとの関係がどのように変化するかを調べています。",
+      "en-us": "We develop embodied AI agents that converse with people and act within shared virtual spaces. By deploying them in live social VR environments, we study how people respond, how their behavior changes, and how relationships with agents develop over time."
+    },
+    "publications": [
+      "kurai2026metaproxy",
+      "hiroi2026aiagent",
+      "yanagawa2025navigationpixie",
+      "matsumoto2025dynamic",
+      "kurai2024agentapi"
+    ],
+    "collage_keys": [
+      "yanagawa2025navigationpixie",
+      "kurai2026metaproxy",
+      "matsumoto2025dynamic"
+    ],
+    "collage": "/assets/img/project_collages/embodied-ai-agents-1600.webp",
+    "collage_small": "/assets/img/project_collages/embodied-ai-agents-800.webp",
+    "collage_width": 1600,
+    "collage_height": 1200,
+    "feature": {
+      "title": "AI Agent Flex",
+      "url": "https://www.biz.cluster.mu/ai-agent-flex",
+      "description": {
+        "en-us": "AI agents that guide visitors through metaverse worlds and respond to their interests and questions.",
+        "ja": "メタバースの空間を案内し、ユーザーの興味や質問に応じて対話するAIエージェント。"
+      }
+    },
+    "collage_layout": "directed-mosaic"
+  },
+  {
+    "id": "community-analysis",
+    "title": "Social VR Community Analysis",
+    "image": "2025-community-analysis.png",
+    "description": {
+      "ja": "Social VRの行動ログから、人々の集まり方や交流、コミュニティの構造を分析しています。分析・可視化ツールの開発を通じて、バーチャル空間での体験とユーザの関心や価値選好、現実空間での行動意図との関係を調べています。",
+      "en-us": "We analyze behavioral logs to understand how people gather, interact, and form communities in social VR. Analysis and visualization tools help reveal these patterns and examine how virtual experiences relate to users’ interests, values and preferences, and intentions to act in the physical world."
+    },
+    "publications": [
+      "tsutsui2025communityanalysis",
+      "tokida2026analyze-aeon",
+      "yokoi2026verselyzer"
+    ],
+    "collage_keys": [
+      "tsutsui2025communityanalysis",
+      "yokoi2026verselyzer"
+    ],
+    "collage": "/assets/img/project_collages/community-analysis-1600.webp",
+    "collage_small": "/assets/img/project_collages/community-analysis-800.webp",
+    "collage_width": 1600,
+    "collage_height": 1200,
+    "collage_layout": "directed-mosaic"
+  },
+  {
+    "id": "metaverse-creation-tools",
+    "title": "VR Creation Tools",
+    "image": "2025-magicitem.png",
+    "description": {
+      "ja": "言葉やスケッチから、バーチャル空間のモノや振る舞いを形にする制作環境を研究しています。空間の構築や実世界の機器との接続も含め、専門的な制作・プログラミング技能に依存しない創作を支えます。",
+      "en-us": "We build tools that turn language and sketches into objects and behaviors in virtual spaces. The work also supports spatial authoring and connections to physical devices, lowering technical barriers to creating interactive experiences."
+    },
+    "publications": [
+      "kurai2025magicitem",
+      "kurai2025magiccraft",
+      "kurai2025magicpen",
+      "kurai2025metagadget",
+      "kurai2024metagadget",
+      "kurai2025magiccraft-poster",
+      "hayase2024panotree"
+    ],
+    "collage_keys": [
+      "kurai2025magicitem",
+      "kurai2025magiccraft",
+      "hayase2024panotree",
+      "kurai2025magicpen"
+    ],
+    "collage": "/assets/img/project_collages/metaverse-creation-tools-1600.webp",
+    "collage_small": "/assets/img/project_collages/metaverse-creation-tools-800.webp",
+    "collage_width": 1600,
+    "collage_height": 1200,
+    "collage_layout": "directed-mosaic"
+  },
+  {
+    "id": "light-attenuation-displays",
+    "title": "Light Attenuation / Multi-spectral Displays",
+    "image": "2024-stained-sweeper.jpg",
+    "description": {
+      "ja": "目に届く環境光の強さと波長成分を制御し、色や映像を表現するシースルーディスプレイを研究しています。光学設計と画像の計算を組み合わせ、環境の光を活かした映像表現を探ります。",
+      "en-us": "We design see-through displays that create images and colors by controlling the intensity and spectrum of incoming light. Combining optical design with computational methods, we explore how environmental light can serve as a medium for visual expression."
+    },
+    "publications": [
+      "hiroi2024stainedsweeper",
+      "hiroi2024factored",
+      "kamino2020stainedview"
+    ],
+    "collage_keys": [
+      "hiroi2024stainedsweeper",
+      "kamino2020stainedview"
+    ],
+    "collage": "/assets/img/project_collages/light-attenuation-displays-1600.webp",
+    "collage_small": "/assets/img/project_collages/light-attenuation-displays-800.webp",
+    "collage_width": 1600,
+    "collage_height": 1200,
+    "collage_layout": "directed-mosaic"
+  },
+  {
+    "id": "occlusion-capable-displays",
+    "title": "Occlusion-Capable Displays",
+    "image": "2021-focal-surface-occlusion.jpg",
+    "description": {
+      "ja": "現実の光を部分的に遮り、バーチャルな物体が実物の手前にあるように見せる光学シースルーディスプレイを研究しています。焦点に応じた遮蔽のぼけや光に応答する材料の制御を通じて、自然な前後関係と見え方の実現を目指します。",
+      "en-us": "We study optical see-through displays that selectively block real-world light so virtual objects can appear in front of physical objects. The work addresses focus-dependent occlusion, responsive optical materials, and their effects on depth perception."
+    },
+    "publications": [
+      "hiroi2021focalsurface",
+      "ooi2023photochromic",
+      "ooi2025rapho",
+      "hiroi2024stainedsweeper",
+      "hiroi2024factored",
+      "kamino2020stainedview",
+      "gauthier2026occlusion",
+      "hiroi2020dehaze",
+      "hiroi2017adaptivisor"
+    ],
+    "collage_keys": [
+      "hiroi2021focalsurface",
+      "ooi2025rapho",
+      "ooi2023photochromic"
+    ],
+    "collage": "/assets/img/project_collages/occlusion-capable-displays-1600.webp",
+    "collage_small": "/assets/img/project_collages/occlusion-capable-displays-800.webp",
+    "collage_width": 1600,
+    "collage_height": 1200,
+    "collage_layout": "directed-mosaic"
+  },
+  {
+    "id": "beaming-displays",
+    "title": "Beaming Displays",
+    "image": "2026-beamstellar.png",
+    "description": {
+      "ja": "映像を投影する光学系を環境側に置き、身につける眼鏡を軽くするディスプレイを研究しています。高速な追跡・投影制御、複数プロジェクタの協調、薄型の導波路光学系の設計を通じて、頭の動きに追従する映像提示を探ります。",
+      "en-us": "We study displays that place image projection in the environment to reduce the hardware worn on the head. Through high-speed tracking and projection, coordination between multiple projectors, and the design of thin waveguide optics, we explore image presentation that follows head movements."
+    },
+    "publications": [
+      "weigand2026stellar",
+      "itoh2025hoebeaming",
+      "weigand2025stellar",
+      "aoki2024dualbeaming",
+      "itoh2024thinholographic",
+      "hiroi2023lowlatency",
+      "tochimoto2023dualbeaming"
+    ],
+    "collage_keys": [
+      "weigand2026stellar",
+      "hiroi2023lowlatency",
+      "itoh2025hoebeaming"
+    ],
+    "collage": "/assets/img/project_collages/beaming-displays-1600.webp",
+    "collage_small": "/assets/img/project_collages/beaming-displays-800.webp",
+    "collage_width": 1600,
+    "collage_height": 1200,
+    "collage_layout": "directed-mosaic"
+  },
+  {
+    "id": "neural-rendering-displays",
+    "title": "Neural Rendering + Displays",
+    "image": "2022-NeARportation.jpg",
+    "description": {
+      "ja": "高度な3次元表現をディスプレイに取り入れ、視覚体験の可能性を広げる研究です。視点に応じた見え方の表現を通じて、新たな視覚的質感の提示や光学系の複雑な歪みの補正を探究しています。",
+      "en-us": "We bring advanced 3D representations into displays to expand the possibilities of visual experience. By modeling view-dependent appearance, we explore new ways to present material qualities and compensate for complex distortions in display optics."
+    },
+    "publications": [
+      "hiroi2022nearportation",
+      "hiroi2022neural",
+      "someya2019ostnet"
+    ],
+    "collage_keys": [
+      "hiroi2022nearportation",
+      "hiroi2022neural"
+    ],
+    "collage": "/assets/img/project_collages/neural-rendering-displays-1600.webp",
+    "collage_small": "/assets/img/project_collages/neural-rendering-displays-800.webp",
+    "collage_width": 1600,
+    "collage_height": 1200,
+    "feature": {
+      "title": "NeARportation — 3D Chakaiki",
+      "url": "https://www.sonycsl.co.jp/press/prs20230227/",
+      "description": {
+        "ja": "Sony CSLの茶の湯文化に関する研究では、茶器や茶菓子の多様な質感を三次元で再現し、茶会の記録を立体的に残すことを目指しています。",
+        "en-us": "As part of Sony CSL’s research on the future of tea culture, this work explores three-dimensional records of tea ceremonies by reproducing the varied appearances of tea utensils and confectioneries."
+      }
+    },
+    "collage_layout": "directed-mosaic"
+  },
+  {
+    "id": "vision-augmentation",
+    "title": "Vision Augmentation",
+    "image": "2017-adaptivisor.jpg",
+    "description": {
+      "ja": "目に届く光や映像を人の視覚特性に合わせて制御し、見え方を拡張する技術を研究しています。明暗差への適応支援、視線運動の特性を利用した映像変調、コントラストの改善を通じて、情報の見つけやすさや見やすさを探ります。",
+      "en-us": "We explore how controlling light and imagery in ways informed by human vision can extend visual perception. The work supports brightness adaptation, uses the properties of eye movements to modulate visual experience, and improves contrast to help people see and find information."
+    },
+    "publications": [
+      "tosa2025chromagazer",
+      "shen2025chromagazerhmd",
+      "hattori2024macadam",
+      "nara2025saccaidance",
+      "hiroi2017adaptivisor",
+      "hiroi2020dehaze",
+      "hiroi2020dehaze-workshop",
+      "tochimoto2021circadian",
+      "itoh2016laplacian"
+    ],
+    "collage_keys": [
+      "hiroi2017adaptivisor",
+      "hiroi2020dehaze",
+      "nara2025saccaidance"
+    ],
+    "collage": "/assets/img/project_collages/vision-augmentation-1600.webp",
+    "collage_small": "/assets/img/project_collages/vision-augmentation-800.webp",
+    "collage_width": 1600,
+    "collage_height": 1200,
+    "collage_layout": "directed-mosaic"
+  },
+  {
+    "id": "imperceptible-color-vibration",
+    "title": "Imperceptible Color Vibration",
+    "description": {
+      "ja": "高速に切り替わる色がひとつの色として知覚される性質を利用し、気づかれにくい視覚情報の提示を研究しています。色の組み合わせや変化の方向・振幅と知覚の関係を調べ、情報の埋め込みや視線誘導へ応用します。",
+      "en-us": "We study rapid color alternation that appears as a stable color, examining how color pairs, modulation direction, and amplitude affect perception. We apply these findings to embedding information in visual content and guiding gaze."
+    },
+    "publications": [
+      "tosa2025chromagazer",
+      "shen2025chromagazerhmd",
+      "hattori2024macadam",
+      "nagano2024haptofloater"
+    ],
+    "image": "2025-chromagazer.png",
+    "collage_keys": [
+      "tosa2025chromagazer",
+      "shen2025chromagazerhmd",
+      "hattori2024macadam",
+      "nagano2024haptofloater"
+    ],
+    "collage": "/assets/img/project_collages/imperceptible-color-vibration-1600.webp",
+    "collage_small": "/assets/img/project_collages/imperceptible-color-vibration-800.webp",
+    "collage_width": 1600,
+    "collage_height": 1200,
+    "collage_layout": "directed-mosaic"
+  }
+]

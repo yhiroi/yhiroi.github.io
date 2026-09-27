@@ -1,0 +1,429 @@
+{
+  "2015-remote-welding.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2015-remote-welding-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2015-remote-welding-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2015-remote-welding-600.webp",
+    "width": 600,
+    "height": 452
+  },
+  "2016-laplacian-vision.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2016-laplacian-vision-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2016-laplacian-vision-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2016-laplacian-vision-600.webp",
+    "width": 600,
+    "height": 355
+  },
+  "2016-marcut.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2016-marcut-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2016-marcut-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2016-marcut-600.webp",
+    "width": 600,
+    "height": 366
+  },
+  "2017-adaptivisor.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2017-adaptivisor-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2017-adaptivisor-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2017-adaptivisor-600.webp",
+    "width": 600,
+    "height": 565
+  },
+  "2018-hysar.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2018-hysar-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2018-hysar-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2018-hysar-600.webp",
+    "width": 600,
+    "height": 524
+  },
+  "2019-ostnet.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2019-ostnet-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2019-ostnet-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2019-ostnet-600.webp",
+    "width": 600,
+    "height": 600
+  },
+  "2020-dehazeglasses.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2020-dehazeglasses-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2020-dehazeglasses-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2020-dehazeglasses-600.webp",
+    "width": 600,
+    "height": 638
+  },
+  "2020-stainedview.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2020-stainedview-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2020-stainedview-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2020-stainedview-600.webp",
+    "width": 600,
+    "height": 374
+  },
+  "2020-stencil-markers.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2020-stencil-markers-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2020-stencil-markers-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2020-stencil-markers-600.webp",
+    "width": 600,
+    "height": 256
+  },
+  "2021-circadianvisor.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2021-circadianvisor-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2021-circadianvisor-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2021-circadianvisor-600.webp",
+    "width": 600,
+    "height": 375
+  },
+  "2021-focal-surface-occlusion.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2021-focal-surface-occlusion-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2021-focal-surface-occlusion-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2021-focal-surface-occlusion-600.webp",
+    "width": 600,
+    "height": 569
+  },
+  "2021-focus-aware-retinal.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2021-focus-aware-retinal-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2021-focus-aware-retinal-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2021-focus-aware-retinal-600.webp",
+    "width": 600,
+    "height": 633
+  },
+  "2022-NeARportation.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2022-NeARportation-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2022-NeARportation-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2022-NeARportation-600.webp",
+    "width": 600,
+    "height": 506
+  },
+  "2022-neural-distortion.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2022-neural-distortion-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2022-neural-distortion-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2022-neural-distortion-600.webp",
+    "width": 600,
+    "height": 550
+  },
+  "2022-spatial-airflow-interaction.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2022-spatial-airflow-interaction-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2022-spatial-airflow-interaction-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2022-spatial-airflow-interaction-600.webp",
+    "width": 600,
+    "height": 604
+  },
+  "2023-directional-auditory.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2023-directional-auditory-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2023-directional-auditory-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2023-directional-auditory-600.webp",
+    "width": 600,
+    "height": 597
+  },
+  "2023-low-latency-beaming.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2023-low-latency-beaming-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2023-low-latency-beaming-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2023-low-latency-beaming-600.webp",
+    "width": 600,
+    "height": 713
+  },
+  "2023-photochromic-occlusion.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2023-photochromic-occlusion-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2023-photochromic-occlusion-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2023-photochromic-occlusion-600.webp",
+    "width": 600,
+    "height": 413
+  },
+  "2023-retinal-homing.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2023-retinal-homing-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2023-retinal-homing-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2023-retinal-homing-600.webp",
+    "width": 600,
+    "height": 494
+  },
+  "2023-telextiles.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2023-telextiles-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2023-telextiles-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2023-telextiles-600.webp",
+    "width": 600,
+    "height": 600
+  },
+  "2024-agent-api.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2024-agent-api-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2024-agent-api-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2024-agent-api-600.webp",
+    "width": 600,
+    "height": 277
+  },
+  "2024-dual-beaming.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2024-dual-beaming-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2024-dual-beaming-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2024-dual-beaming-600.webp",
+    "width": 600,
+    "height": 471
+  },
+  "2024-factored-sweeper.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2024-factored-sweeper-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2024-factored-sweeper-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2024-factored-sweeper-600.webp",
+    "width": 600,
+    "height": 641
+  },
+  "2024-haptofloater.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2024-haptofloater-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2024-haptofloater-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2024-haptofloater-600.webp",
+    "width": 600,
+    "height": 692
+  },
+  "2024-macadam-search.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2024-macadam-search-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2024-macadam-search-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2024-macadam-search-600.webp",
+    "width": 600,
+    "height": 599
+  },
+  "2024-metagadget.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2024-metagadget-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2024-metagadget-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2024-metagadget-600.webp",
+    "width": 600,
+    "height": 707
+  },
+  "2024-panotree.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2024-panotree-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2024-panotree-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2024-panotree-600.webp",
+    "width": 600,
+    "height": 328
+  },
+  "2024-stained-sweeper.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2024-stained-sweeper-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2024-stained-sweeper-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2024-stained-sweeper-600.webp",
+    "width": 600,
+    "height": 687
+  },
+  "2024-thin-holographic-beaming.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2024-thin-holographic-beaming-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2024-thin-holographic-beaming-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2024-thin-holographic-beaming-600.webp",
+    "width": 600,
+    "height": 651
+  },
+  "2025-beamstellar.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-beamstellar-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-beamstellar-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-beamstellar-600.webp",
+    "width": 600,
+    "height": 364
+  },
+  "2025-chromagazer-hmd.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-chromagazer-hmd-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-chromagazer-hmd-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-chromagazer-hmd-600.webp",
+    "width": 600,
+    "height": 480
+  },
+  "2025-chromagazer.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-chromagazer-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-chromagazer-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-chromagazer-600.webp",
+    "width": 600,
+    "height": 631
+  },
+  "2025-cluster-haptic-db.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-cluster-haptic-db-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-cluster-haptic-db-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-cluster-haptic-db-600.webp",
+    "width": 600,
+    "height": 600
+  },
+  "2025-community-analysis.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-community-analysis-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-community-analysis-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-community-analysis-600.webp",
+    "width": 600,
+    "height": 558
+  },
+  "2025-cross-reality.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-cross-reality-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-cross-reality-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-cross-reality-600.webp",
+    "width": 600,
+    "height": 592
+  },
+  "2025-gimmick-pixie.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-gimmick-pixie-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-gimmick-pixie-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-gimmick-pixie-600.webp",
+    "width": 600,
+    "height": 220
+  },
+  "2025-hoebeaming.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-hoebeaming-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-hoebeaming-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-hoebeaming-600.webp",
+    "width": 600,
+    "height": 638
+  },
+  "2025-industrial-metaverse.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-industrial-metaverse-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-industrial-metaverse-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-industrial-metaverse-600.webp",
+    "width": 600,
+    "height": 524
+  },
+  "2025-kajima-digitaltwin.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-kajima-digitaltwin-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-kajima-digitaltwin-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-kajima-digitaltwin-600.webp",
+    "width": 600,
+    "height": 341
+  },
+  "2025-magic-craft-poster.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-magic-craft-poster-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-magic-craft-poster-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-magic-craft-poster-600.webp",
+    "width": 600,
+    "height": 563
+  },
+  "2025-magic-pen.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-magic-pen-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-magic-pen-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-magic-pen-600.webp",
+    "width": 600,
+    "height": 655
+  },
+  "2025-magicitem.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-magicitem-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-magicitem-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-magicitem-600.webp",
+    "width": 600,
+    "height": 598
+  },
+  "2025-navigation-pixie.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-navigation-pixie-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-navigation-pixie-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-navigation-pixie-600.webp",
+    "width": 600,
+    "height": 524
+  },
+  "2025-pinching-tactile.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-pinching-tactile-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-pinching-tactile-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-pinching-tactile-600.webp",
+    "width": 600,
+    "height": 629
+  },
+  "2025-rapho.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-rapho-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-rapho-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-rapho-600.webp",
+    "width": 600,
+    "height": 600
+  },
+  "2025-saccaidance.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-saccaidance-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-saccaidance-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-saccaidance-600.webp",
+    "width": 600,
+    "height": 672
+  },
+  "2025-tactile-measurement.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-tactile-measurement-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-tactile-measurement-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-tactile-measurement-600.webp",
+    "width": 600,
+    "height": 400
+  },
+  "2025-weather-sync.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2025-weather-sync-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2025-weather-sync-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2025-weather-sync-600.webp",
+    "width": 600,
+    "height": 450
+  },
+  "2026-adaptlbe.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-adaptlbe-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-adaptlbe-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-adaptlbe-600.webp",
+    "width": 600,
+    "height": 228
+  },
+  "2026-ai-agent-tracking.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-ai-agent-tracking-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-ai-agent-tracking-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-ai-agent-tracking-600.webp",
+    "width": 600,
+    "height": 419
+  },
+  "2026-beamstellar.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-beamstellar-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-beamstellar-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-beamstellar-600.webp",
+    "width": 600,
+    "height": 387
+  },
+  "2026-deluge.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-deluge-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-deluge-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-deluge-600.webp",
+    "width": 600,
+    "height": 348
+  },
+  "2026-haptoflow.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-haptoflow-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-haptoflow-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-haptoflow-600.webp",
+    "width": 600,
+    "height": 285
+  },
+  "2026-immersive-dmt.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-immersive-dmt-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-immersive-dmt-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-immersive-dmt-600.webp",
+    "width": 600,
+    "height": 348
+  },
+  "2026-luida.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-luida-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-luida-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-luida-600.webp",
+    "width": 600,
+    "height": 286
+  },
+  "2026-metaproxy.jpg": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-metaproxy-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-metaproxy-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-metaproxy-600.webp",
+    "width": 600,
+    "height": 348
+  },
+  "2026-metaverse-analysis.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-metaverse-analysis-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-metaverse-analysis-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-metaverse-analysis-600.webp",
+    "width": 600,
+    "height": 336
+  },
+  "2026-occlusion-depth.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-occlusion-depth-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-occlusion-depth-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-occlusion-depth-600.webp",
+    "width": 600,
+    "height": 377
+  },
+  "2026-snapgrid.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-snapgrid-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-snapgrid-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-snapgrid-600.webp",
+    "width": 600,
+    "height": 280
+  },
+  "2026-verselyzer.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-verselyzer-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-verselyzer-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-verselyzer-600.webp",
+    "width": 600,
+    "height": 344
+  },
+  "2026-ai-agent-field-study.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-ai-agent-field-study-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-ai-agent-field-study-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-ai-agent-field-study-600.webp",
+    "width": 600,
+    "height": 754
+  }
+}

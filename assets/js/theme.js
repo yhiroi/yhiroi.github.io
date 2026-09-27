@@ -206,11 +206,11 @@ let transTheme = () => {
 };
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
-// "system". Default is "system".
+// "system". First visits default to the portfolio’s dark palette.
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
   if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
-    themeSetting = "system";
+    themeSetting = "dark";
   }
   return themeSetting;
 };
@@ -221,7 +221,7 @@ let determineComputedTheme = () => {
   let themeSetting = determineThemeSetting();
   if (themeSetting == "system") {
     const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches || true) {
+    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
       return "dark";
     } else {
       return "light";

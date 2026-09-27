@@ -1,50 +1,56 @@
 "IEEE TVCG":
-  color: "#C32B72"
+  color: "var(--publication-journal-color)"
 
 "IEEE Access":
-  color: "#C32B72"
+  color: "var(--publication-journal-color)"
 
 "Opt. Exp.":
-  color: "#C32B72"
+  color: "var(--publication-journal-color)"
 
 "IEEE Perv. Comp.":
-  color: "#C32B72"
+  color: "var(--publication-journal-color)"
 
 "Sci. Data":
-  color: "#C32B72"
+  color: "var(--publication-journal-color)"
 
 "IEICE Trans. Inf. & Syst.":
-  color: "#C32B72"
+  color: "var(--publication-journal-color)"
+
+"Front. Virtual Real.":
+  color: "var(--publication-journal-color)"
 
 "IEEE VR Poster":
-  color: "#666666"
+  color: "var(--publication-conference-color)"
 
 "IEEE VR Workshop":
-  color: "#666666"
+  color: "var(--publication-conference-color)"
 
 "ISMAR Workshop":
-  color: "#666666"
+  color: "var(--publication-conference-color)"
 
 "ISMAR Poster":
-  color: "#666666"
+  color: "var(--publication-conference-color)"
 
 "ISMAR Demo":
-  color: "#666666"
+  color: "var(--publication-conference-color)"
 
 "AHs Poster":
-  color: "#666666"
+  color: "var(--publication-conference-color)"
 
 "SIGGRAPH Poster":
-  color: "#666666"
+  color: "var(--publication-conference-color)"
 
 "SIGGRAPH E-tech":
-  color: "#666666"
+  color: "var(--publication-conference-color)"
 
 "SA Poster":
-  color: "#666666"
+  color: "var(--publication-conference-color)"
 
 "WHC WiP":
-  color: "#666666"
+  color: "var(--publication-conference-color)"
+
+"EuroHaptics WiP":
+  color: "var(--publication-conference-color)"
 
 "arXiv":
-  color: "#666666"
+  color: "var(--publication-preprint-color)"

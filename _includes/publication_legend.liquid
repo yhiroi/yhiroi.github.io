@@ -1,0 +1,29 @@
+<section class="publication-overview" aria-label="{% if site.active_lang == 'ja' %}出版区分と年別件数{% else %}Publication categories and activity{% endif %}">
+  <div class="publication-filters" role="group" aria-label="{% if site.active_lang == 'ja' %}出版区分で絞り込む{% else %}Filter by publication category{% endif %}">
+    <button type="button" class="publication-filter" data-category="all" aria-pressed="true" style="--category-color: #606060;">{% if site.active_lang == 'ja' %}すべて{% else %}All{% endif %} <strong>{{ site.data.publication_activity.total }}</strong></button>
+    {% for category in site.data.publication_categories %}
+      {% assign prefix = category[0] %}{% assign details = category[1] %}
+      <button type="button" class="publication-filter" data-category="{{ prefix }}" aria-pressed="false" style="--category-color: {{ details.color }};" title="{% if site.active_lang == 'ja' %}{{ details.label_ja }}{% else %}{{ details.label_en }}{% endif %}">{{ details.short_label }} <strong>{{ site.data.publication_counts[prefix] }}</strong></button>
+    {% endfor %}
+  </div>
+  <div class="publication-activity-heading"><strong>{% if site.active_lang == 'ja' %}年別の出版・発表件数{% else %}Publication Activity{% endif %}</strong><span>{{ site.data.publication_activity.total }} {% if site.active_lang == 'ja' %}件{% else %}publications{% endif %}</span></div>
+  <div class="publication-activity-scroll" tabindex="0" role="region" aria-label="{% if site.active_lang == 'ja' %}年別件数表{% else %}Annual publication counts{% endif %}">
+    <table class="publication-activity">
+      <caption class="sr-only">{% if site.active_lang == 'ja' %}色が濃いほど、その年の件数が多いことを示します。{% else %}Darker cells indicate more publications in that year.{% endif %}</caption>
+      <thead><tr><th scope="col"><span class="sr-only">Category</span></th><th scope="col"><span class="sr-only">Total</span></th>{% for year in site.data.publication_activity.years %}<th scope="col" title="{{ year }}" aria-label="{{ year }}">'{{ year | append: '' | slice: -2, 2 }}</th>{% endfor %}</tr></thead>
+      <tbody>
+        {% for row in site.data.publication_activity.rows %}
+          {% assign details = site.data.publication_categories[row.category] %}
+          <tr style="--category-color: {{ details.color }};">
+            <th scope="row"><span class="activity-prefix">{{ row.category }}</span> {{ details.short_label }}</th><td class="activity-total">{{ row.total }}</td>
+            {% for cell in row.cells %}<td><span class="activity-cell" title="{{ details.short_label }} · {{ cell.year }}: {{ cell.count }}" aria-label="{{ details.short_label }} · {{ cell.year }}: {{ cell.count }}"><span style="opacity: {{ cell.opacity }};"></span></span></td>{% endfor %}
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p class="publication-legend-note">{% if site.active_lang == 'ja' %}番号は古いものから順に付け、最新番号が区分ごとの総数を示します。採録済み・出版予定を含み、別発表枠は個別に集計しています。{% else %}Numbers run from oldest to newest; the highest number is the category total. Includes accepted and forthcoming work; separate presentations are counted individually.{% endif %}</p>
+</section>
+{% if site.bib_search %}<input type="search" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" aria-label="{% if site.active_lang == 'ja' %}論文を検索{% else %}Search publications{% endif %}" placeholder="{% if site.active_lang == 'ja' %}論文を検索{% else %}Search publications{% endif %}">{% endif %}
+<p class="publication-filter-status sr-only" role="status" aria-live="polite" data-lang="{{ site.active_lang }}"></p>
+<script src="{{ '/assets/js/publication-controls.js' | relative_url | bust_file_cache }}" type="module"></script>

@@ -1,0 +1,27 @@
+<nav class="research-theme-nav" aria-label="{% if site.active_lang == 'ja' %}研究テーマ{% else %}Research themes{% endif %}">
+  {% for theme in site.data.research_themes %}
+    <a href="#{{ theme.id }}">{{ theme.label }}. {{ theme.title }}</a>
+  {% endfor %}
+</nav>
+{% for theme in site.data.research_themes %}
+  <section class="research-theme" id="{{ theme.id }}" aria-labelledby="{{ theme.id }}-title">
+    <h2 class="research-theme-title" id="{{ theme.id }}-title"><span class="research-theme-letter">{{ theme.label }}.</span> {{ theme.title }}</h2>
+    <p class="research-theme-description">{{ theme.description[site.active_lang] }}</p>
+    <div class="research-series-grid">
+      {% for series_id in theme.projects %}
+        {% assign series = site.data.research_series | where: 'id', series_id | first %}
+        {% assign series_url = series.id | prepend: '/projects/' | append: '/' %}
+        <a class="research-series-card" href="{{ series_url | relative_url }}">
+          <div class="research-series-image">
+            <img src="{{ series.collage_small | relative_url | bust_file_cache }}" srcset="{{ series.collage_small | relative_url | bust_file_cache }} 800w, {{ series.collage | relative_url | bust_file_cache }} 1600w" sizes="(max-width: 575px) 100vw, (max-width: 991px) 50vw, 33vw" width="{{ series.collage_width }}" height="{{ series.collage_height }}" alt="{{ series.title | escape }}" loading="lazy" decoding="async">
+          </div>
+          <div class="research-series-copy">
+            <h2>{{ series.title }}</h2>
+            <p>{{ series.description[site.active_lang] }}</p>
+            <span class="research-series-count">{{ series.publications | size }} {% if site.active_lang == 'ja' %}件の関連論文{% else %}related publications{% endif %} <span aria-hidden="true">→</span></span>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
+{% endfor %}

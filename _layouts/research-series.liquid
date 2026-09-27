@@ -1,0 +1,20 @@
+---
+layout: page
+---
+{% assign series = site.data.research_series | where: 'id', page.research_series | first %}
+<div class="research-series-intro">
+  <a href="{{ '/projects/' | relative_url }}">← {% if site.active_lang == 'ja' %}Projects 一覧{% else %}All projects{% endif %}</a>
+  <p>{{ series.description[site.active_lang] }}</p>
+</div>
+<h2 class="research-series-publications-title">{% if site.active_lang == 'ja' %}関連論文{% else %}Related publications{% endif %} <span>({{ series.publications | size }})</span></h2>
+{% assign series_query = series.publications | join: '|' | prepend: '@*[key~=^(' | append: ')$]' %}
+<div class="publications research-series-publications">
+  {% bibliography --query {{ series_query }} %}
+</div>
+{% if series.feature %}
+  <div class="research-series-feature">
+    <h2><a href="{{ series.feature.url }}">{{ series.feature.title }}</a></h2>
+    <p>{{ series.feature.description[site.active_lang] }}</p>
+    <p class="research-series-credit">{% if site.active_lang == 'ja' %}紹介の出典：{% else %}Feature source: {% endif %}<a href="{{ series.feature.url }}">{% if series.id == 'embodied-ai-agents' %}Cluster — AI Agent Flex{% else %}Sony CSL{% endif %}</a></p>
+  </div>
+{% endif %}

@@ -1,0 +1,32 @@
+# New preview sources; cropped PDF regions preserve the original figure contents.
+# Coordinates are [left, top, right, bottom] on a page rendered with max dimension 1200px.
+2026-deluge.png:
+  source: https://arxiv.org/pdf/2609.19750
+  page: 1
+  figure: "Figure 1(a): hand interaction with streaming fluid particles"
+  crop: [123, 223, 382, 373]
+2026-luida.png:
+  source: https://arxiv.org/pdf/2504.17705v2
+  page: 9
+  figure: "Figure 2(1): entering the shared recruitment world"
+  crop: [65, 106, 313, 224]
+2026-haptoflow.jpg:
+  source: https://tamago117.github.io/HaptoFlow/static/images/applications.jpg
+  figure: "Author-published application examples: material exploration and virtual instrument"
+2026-snapgrid.png:
+  source: /assets/pdf/2026_ISMAR_WS_SnapGrid.pdf
+  page: 1
+  figure: "Figure 1: grid cue and anticipated snap rotation"
+  crop: [355, 232, 808, 443]
+2026-adaptlbe.png:
+  source: /assets/pdf/2026_ISMAR_WS_AdaptLBE.pdf
+  page: 1
+  figure: "Figure 1: corresponding virtual and physical chair layouts"
+  crop: [480, 242, 847, 381]
+
+2026-ai-agent-field-study.png:
+  source: /assets/pdf/2026_AIxVR_Longterm_AI_Agent_Tracking.pdf
+  page: 4
+  figure: "Figure 3: user engagement and agent contact over time; replaces the character photograph"
+  render_scale: 3
+  crop: [936, 150, 1692, 1100]
