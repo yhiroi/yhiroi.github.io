@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:newspaper: 共著論文1件が[Nature Scientific Data](https://www.nature.com/sdata/)に採択されました。
+📄 共著論文1件が[Nature Scientific Data](https://www.nature.com/sdata/)に採択されました。

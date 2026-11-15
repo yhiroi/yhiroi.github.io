@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:newspaper: 1 co-author journal paper has been accepted at [Nature Scientific Data](https://www.nature.com/sdata/).
+📄 1 co-author journal paper has been accepted at [Nature Scientific Data](https://www.nature.com/sdata/).

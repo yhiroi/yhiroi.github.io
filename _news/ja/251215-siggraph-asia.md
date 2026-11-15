@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:clipboard: 共著ポスター1件が[SIGGRAPH Asia 2025](https://asia.siggraph.org/2025/)に採択されました。
+📋 共著ポスター1件が[SIGGRAPH Asia 2025](https://asia.siggraph.org/2025/)に採択されました。

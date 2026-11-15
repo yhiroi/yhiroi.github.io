@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-LUIDAに関する共同研究の発表が、[APMAR 2026](https://sites.google.com/view/apmar2026/)にて**Best Presentation Award**を受賞しました。 :sparkles: :trophy:
+LUIDAに関する共同研究の発表が、[APMAR 2026](https://sites.google.com/view/apmar2026/)にて**Best Presentation Award**を受賞しました。 🏆

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our co-author presentation on LUIDA won the **Best Presentation Award** at [APMAR 2026](https://sites.google.com/view/apmar2026/) :sparkles: :trophy:
+Our co-author presentation on LUIDA won the **Best Presentation Award** at [APMAR 2026](https://sites.google.com/view/apmar2026/) 🏆

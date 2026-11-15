@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:newspaper: 共著論文1件が[Frontiers in Virtual Reality](https://www.frontiersin.org/journals/virtual-reality)に採択されました。
+📄 共著論文1件が[Frontiers in Virtual Reality](https://www.frontiersin.org/journals/virtual-reality)に採択されました。

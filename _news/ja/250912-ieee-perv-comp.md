@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:newspaper: **筆頭著者の[論文1件](https://doi.ieeecomputersociety.org/10.1109/MPRV.2025.3610749)**と、共著の[論文1件](https://doi.ieeecomputersociety.org/10.1109/MPRV.2025.3602289)がIEEE Pervasive Computingに採択されました。
+📄 **筆頭著者の[論文1件](https://doi.ieeecomputersociety.org/10.1109/MPRV.2025.3610749)**と、共著の[論文1件](https://doi.ieeecomputersociety.org/10.1109/MPRV.2025.3602289)がIEEE Pervasive Computingに採択されました。

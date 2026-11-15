@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:newspaper: 1 co-author journal paper has been accepted at [Frontiers in Virtual Reality](https://www.frontiersin.org/journals/virtual-reality).
+📄 1 co-author journal paper has been accepted at [Frontiers in Virtual Reality](https://www.frontiersin.org/journals/virtual-reality).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:clipboard: 1 co-author work-in-progress paper has been accepted and presented at [EuroHaptics 2026](https://eurohaptics.org/ehc2026/).
+📋 1 co-author work-in-progress paper has been accepted and presented at [EuroHaptics 2026](https://eurohaptics.org/ehc2026/).

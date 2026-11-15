@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:clipboard: 1 co-author poster has been accepted at [SIGGRAPH Asia 2025](https://asia.siggraph.org/2025/).
+📋 1 co-author poster has been accepted at [SIGGRAPH Asia 2025](https://asia.siggraph.org/2025/).
