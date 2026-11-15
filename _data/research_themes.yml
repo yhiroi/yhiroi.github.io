@@ -19,7 +19,8 @@
     "title": "Augmenting Vision",
     "projects": [
       "vision-augmentation",
-      "imperceptible-color-vibration"
+      "imperceptible-color-vibration",
+      "ocular-measurement"
     ],
     "label": "B",
     "description": {

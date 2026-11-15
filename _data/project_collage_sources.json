@@ -614,6 +614,43 @@
         534.0,
         277.5
       ]
+    },
+    "ocular-focus-aware": {
+      "key": "kaneko2021focusaware",
+      "path": "assets/img/publication_preview/2021-focus-aware-retinal.png",
+      "origin": "assets/pdf/2021_ISMAR_SightProjector.pdf",
+      "extraction": "Existing publication preview: retinal projection, optical bench, and results at different focus distances"
+    },
+    "ocular-dwfs-input-and-estimate": {
+      "key": "fujimoto2026realtimedwfs",
+      "path": "assets/img/project_collages/sources/ocular-dwfs-input-and-estimate.webp",
+      "origin": "assets/pdf/2026_VRST_Poster_RealtimeDWFS_AuthorVersion.pdf",
+      "page": 1,
+      "extraction": "Figure 1(b): the 2 D input, estimated refraction wavefront, and measured 1.97 D from the original teaser",
+      "source_size": [
+        5883,
+        1831
+      ],
+      "crop_boxes": [
+        [
+          2435,
+          15,
+          3155,
+          832
+        ],
+        [
+          4358,
+          5,
+          4965,
+          707
+        ],
+        [
+          4510,
+          1620,
+          5120,
+          1799
+        ]
+      ]
     }
   },
   "projects": {
@@ -1822,6 +1859,75 @@
               696,
               708,
               474
+            ]
+          }
+        ]
+      }
+    },
+    "ocular-measurement": {
+      "images": [
+        "ocular-focus-aware",
+        "ocular-dwfs-input-and-estimate"
+      ],
+      "panels": [
+        {
+          "image": "ocular-focus-aware",
+          "box": [
+            12,
+            12,
+            1020,
+            1176
+          ],
+          "fit": "contain"
+        },
+        {
+          "image": "ocular-dwfs-input-and-estimate",
+          "box": [
+            1040,
+            12,
+            548,
+            1176
+          ],
+          "fit": "contain"
+        }
+      ],
+      "layout_result": {
+        "size": [
+          1600,
+          1200
+        ],
+        "packing_blank_fraction": 0.0532,
+        "panels": [
+          {
+            "image": "ocular-focus-aware",
+            "box": [
+              12,
+              12,
+              1020,
+              1176
+            ],
+            "fit": "contain",
+            "rendered_box": [
+              12,
+              61,
+              1020,
+              1077
+            ]
+          },
+          {
+            "image": "ocular-dwfs-input-and-estimate",
+            "box": [
+              1040,
+              12,
+              548,
+              1176
+            ],
+            "fit": "contain",
+            "rendered_box": [
+              1040,
+              12,
+              547,
+              1176
             ]
           }
         ]

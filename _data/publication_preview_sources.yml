@@ -30,3 +30,31 @@
   figure: "Figure 3: user engagement and agent contact over time; replaces the character photograph"
   render_scale: 3
   crop: [936, 150, 1692, 1100]
+
+2026-interacraft.png:
+  source: /assets/pdf/2026_VRST_Poster_InteraCraft_AuthorVersion.pdf
+  page: 1
+  figure: "Figure 1: avatar sitting on the generated bench"
+  source_render_width: 1500
+  figure_crop: [1242, 0, 1500, 326]
+
+2026-realtime-dwfs.png:
+  source: /assets/pdf/2026_VRST_Poster_RealtimeDWFS_AuthorVersion.pdf
+  page: 1
+  figure: "Figure 1(a) apparatus above Figure 1(b) processing stages before step (4)"
+  source_width: 5883
+  panel_a_crops: [[0, 0, 1508, 870], [0, 870, 1904, 1831]]
+  panel_b_crops: [[1508, 0, 4195, 870], [1904, 870, 4195, 1831]]
+  panel_gap: 88
+
+2026-distortion-free-midair.png:
+  source: /assets/pdf/2026_VRST_Poster_DistortionFreeMidAir_AuthorVersion.pdf
+  page: 1
+  figure: "Figure 1, upper viewpoint: uncorrected and corrected results above their difference maps; text labels omitted"
+  source_render_width: 3000
+  figure_crops: [[1052, 160, 1516, 626], [1530, 160, 1994, 626], [2032, 160, 2496, 626], [2536, 160, 3000, 626]]
+
+2026-avatar-types.png:
+  source: /assets/pdf/2026_VRST_Poster_AvatarTypes_AuthorVersion.pdf
+  page: 1
+  figure: "Figure 1: human, demihuman, animal, and humanoid robot avatar examples"

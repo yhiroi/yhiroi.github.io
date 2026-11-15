@@ -38,10 +38,11 @@
     "title": "Social VR Community Analysis",
     "image": "2025-community-analysis.png",
     "description": {
-      "ja": "Social VRの行動ログから、人々の集まり方や交流、コミュニティの構造を分析しています。分析・可視化ツールの開発を通じて、バーチャル空間での体験とユーザの関心や価値選好、現実空間での行動意図との関係を調べています。",
-      "en-us": "We analyze behavioral logs to understand how people gather, interact, and form communities in social VR. Analysis and visualization tools help reveal these patterns and examine how virtual experiences relate to users’ interests, values and preferences, and intentions to act in the physical world."
+      "ja": "Social VRの行動ログから、アバターの利用や自己表現、人々の交流、コミュニティの構造を調べています。分析・可視化ツールの開発を通じて、バーチャル空間での体験とユーザーの関心や価値選好、現実空間での行動意図との関係を探ります。",
+      "en-us": "We analyze social VR logs to understand avatar use, self-expression, and how people interact and form communities. We develop tools to analyze and visualize how virtual experiences relate to users’ interests, values, preferences, and intentions to act in the physical world."
     },
     "publications": [
+      "fang2026avatartypes",
       "tsutsui2025communityanalysis",
       "tokida2026analyze-aeon",
       "yokoi2026verselyzer"
@@ -65,6 +66,7 @@
       "en-us": "We build tools that turn language and sketches into objects and behaviors in virtual spaces. The work also supports spatial authoring and connections to physical devices, lowering technical barriers to creating interactive experiences."
     },
     "publications": [
+      "watanabe2026interacraft",
       "kurai2025magicitem",
       "kurai2025magiccraft",
       "kurai2025magicpen",
@@ -175,6 +177,7 @@
       "en-us": "We bring advanced 3D representations into displays to expand the possibilities of visual experience. By modeling view-dependent appearance, we explore new ways to present material qualities and compensate for complex distortions in display optics."
     },
     "publications": [
+      "kiuchi2026distortionfree",
       "hiroi2022nearportation",
       "hiroi2022neural",
       "someya2019ostnet"
@@ -202,8 +205,8 @@
     "title": "Vision Augmentation",
     "image": "2017-adaptivisor.jpg",
     "description": {
-      "ja": "目に届く光や映像を人の視覚特性に合わせて制御し、見え方を拡張する技術を研究しています。明暗差への適応支援、視線運動の特性を利用した映像変調、コントラストの改善を通じて、情報の見つけやすさや見やすさを探ります。",
-      "en-us": "We explore how controlling light and imagery in ways informed by human vision can extend visual perception. The work supports brightness adaptation, uses the properties of eye movements to modulate visual experience, and improves contrast to help people see and find information."
+      "ja": "人の視覚特性に合わせて、目に届く光や映像を調整し、見え方を拡張する技術を研究しています。明暗差への適応支援、視線運動の特性を活かした映像変調、コントラストの改善を通じて、対象や情報を見つけやすくします。",
+      "en-us": "We develop techniques that shape the light and imagery reaching the eye. By helping people adapt to changes in brightness, using eye movements to guide how images are presented, and enhancing contrast, we explore ways to make scenes and information easier to see."
     },
     "publications": [
       "tosa2025chromagazer",
@@ -223,6 +226,28 @@
     ],
     "collage": "/assets/img/project_collages/vision-augmentation-1600.webp",
     "collage_small": "/assets/img/project_collages/vision-augmentation-800.webp",
+    "collage_width": 1600,
+    "collage_height": 1200,
+    "collage_layout": "directed-mosaic"
+  },
+  {
+    "id": "ocular-measurement",
+    "title": "Ocular Measurement",
+    "image": "2026-realtime-dwfs.png",
+    "description": {
+      "ja": "目の屈折やピント調節の状態を光学的に測る技術を研究しています。小型の光学系で光の波面を計測し、目のピントに合わせて見え方が変わる近眼ディスプレイへの応用を探ります。",
+      "en-us": "We study optical methods for measuring the eye’s refraction and accommodation. By measuring wavefronts with compact optics, we explore how near-eye displays can adapt imagery to where the eye is focused."
+    },
+    "publications": [
+      "fujimoto2026realtimedwfs",
+      "kaneko2021focusaware"
+    ],
+    "collage_keys": [
+      "kaneko2021focusaware",
+      "fujimoto2026realtimedwfs"
+    ],
+    "collage": "/assets/img/project_collages/ocular-measurement-1600.webp",
+    "collage_small": "/assets/img/project_collages/ocular-measurement-800.webp",
     "collage_width": 1600,
     "collage_height": 1200,
     "collage_layout": "directed-mosaic"

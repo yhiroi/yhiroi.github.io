@@ -425,5 +425,33 @@
     "600": "/assets/img/publication_preview/thumbnails/2026-ai-agent-field-study-600.webp",
     "width": 600,
     "height": 754
+  },
+  "2026-interacraft.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-interacraft-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-interacraft-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-interacraft-600.webp",
+    "width": 600,
+    "height": 757
+  },
+  "2026-realtime-dwfs.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-realtime-dwfs-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-realtime-dwfs-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-realtime-dwfs-600.webp",
+    "width": 600,
+    "height": 838
+  },
+  "2026-distortion-free-midair.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-distortion-free-midair-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-distortion-free-midair-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-distortion-free-midair-600.webp",
+    "width": 600,
+    "height": 603
+  },
+  "2026-avatar-types.png": {
+    "200": "/assets/img/publication_preview/thumbnails/2026-avatar-types-200.webp",
+    "400": "/assets/img/publication_preview/thumbnails/2026-avatar-types-400.webp",
+    "600": "/assets/img/publication_preview/thumbnails/2026-avatar-types-600.webp",
+    "width": 600,
+    "height": 600
   }
 }
