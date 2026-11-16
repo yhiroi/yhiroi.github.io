@@ -147,6 +147,10 @@
 - title: 受賞
   type: time_table
   contents:
+    - title: Best Poster Award, ACM VRST 2026
+      year: '2026.11'
+      description:
+        - 'F. Fujimoto, <u>Y. Hiroi</u>, Y. Itoh, “Real-Time, Training-Free Ocular Refraction Sensing with a Thin Diffuser for Near-Eye Displays”'
     - title: Best Presentation Award, APMAR 2026
       year: '2026.08'
       description:

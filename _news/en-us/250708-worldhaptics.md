@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📋 Our [work-in-progress](https://arxiv.org/abs/2407.16206) paper has been accepted and presented at [IEEE World Haptics 2025](https://2025.worldhaptics.org/).
+📋 Our [Work-in-Progress]({{ '/publications/' | relative_url }}#eguchi2025whc_wip) paper has been accepted and presented at [IEEE World Haptics 2025](https://2025.worldhaptics.org/).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📋 [Work-in-Progress論文](https://arxiv.org/abs/2407.16206)が[IEEE World Haptics 2025](https://2025.worldhaptics.org/)に採択され、発表しました。
+📋 [Work-in-Progress論文]({{ '/publications/' | relative_url }}#eguchi2025whc_wip)が[IEEE World Haptics 2025](https://2025.worldhaptics.org/)に採択され、発表しました。
